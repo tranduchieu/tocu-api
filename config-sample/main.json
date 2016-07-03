@@ -1,0 +1,14 @@
+{
+  "development": {
+    "port": 8080,
+    "siteUrl": "https://tocu-api-tranduchieu-3.c9users.io"
+  },
+  "test": {
+    "port": 8080,
+    "siteUrl": "https://tocu-api-cloned-tranduchieu.c9users.io"
+  },
+  "production": {
+    "port": 3000,
+    "siteUrl": "http://api.tocu.vn"
+  }
+}

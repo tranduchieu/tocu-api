@@ -1,0 +1,17 @@
+{
+  "development": {
+    "api_version": "v1.0",
+    "app_id": "YOUR_APP_ID",
+    "app_secret": "YOUR_APP_SECRET"
+  },
+  "test": {
+    "api_version": "v1.0",
+    "app_id": "YOUR_APP_ID",
+    "app_secret": "YOUR_APP_SECRET"
+  },
+  "production": {
+    "api_version": "v1.0",
+    "app_id": "YOUR_APP_ID",
+    "app_secret": "YOUR_APP_SECRET"
+  }
+}

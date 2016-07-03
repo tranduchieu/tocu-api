@@ -1,0 +1,4993 @@
+[
+  {
+    "name":"A Lưới",
+    "ghnDistrictCode":"3309",
+    "province":"Thừa Thiên - Huế",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Biên",
+    "ghnDistrictCode":"5409",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Dương",
+    "ghnDistrictCode":"0310",
+    "province":"Hải Phòng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Khê",
+    "ghnDistrictCode":"3805",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Lão",
+    "ghnDistrictCode":"0307",
+    "province":"Hải Phòng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Lão",
+    "ghnDistrictCode":"",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"An Minh",
+    "ghnDistrictCode":"5410",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Nhơn",
+    "ghnDistrictCode":"3710",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"An Phú",
+    "ghnDistrictCode":"5103",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Anh Sơn",
+    "ghnDistrictCode":"2913",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ayun Pa",
+    "ghnDistrictCode":"3810",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ân Thi",
+    "ghnDistrictCode":"2203",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Bể",
+    "ghnDistrictCode":"1106",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Chẽ",
+    "ghnDistrictCode":"1709",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Đình",
+    "ghnDistrictCode":"1A01",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Đồn",
+    "ghnDistrictCode":"3108",
+    "province":"Quảng Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Tơ",
+    "ghnDistrictCode":"3512",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Tri",
+    "ghnDistrictCode":"5607",
+    "province":"Bến Tre",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ba Vì",
+    "ghnDistrictCode":"1B17",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bà Rịa",
+    "ghnDistrictCode":"5202",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bá Thước",
+    "ghnDistrictCode":"",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Bác Ái",
+    "ghnDistrictCode":"4505",
+    "province":"Ninh Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bạc Liêu",
+    "ghnDistrictCode":"6001",
+    "province":"Bạc Liêu",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bạch Long Vĩ",
+    "ghnDistrictCode":"",
+    "province":"Hải Phòng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Bạch Thông",
+    "ghnDistrictCode":"1103",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bảo Lạc",
+    "ghnDistrictCode":"0602",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bảo Lâm",
+    "ghnDistrictCode":"0612",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bảo Lâm",
+    "ghnDistrictCode":"4211",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bảo Lộc",
+    "ghnDistrictCode":"4202",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bảo Thắng",
+    "ghnDistrictCode":"",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Bảo Yên",
+    "ghnDistrictCode":"0807",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bát Xát",
+    "ghnDistrictCode":"0803",
+    "province":"Lào Cai",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Bàu Bàng",
+    "ghnDistrictCode":"4408",
+    "province":"Bình Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Bình",
+    "ghnDistrictCode":"4703",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Giang",
+    "ghnDistrictCode":"1801",
+    "province":"Bắc Giang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Hà",
+    "ghnDistrictCode":"0808",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Kạn",
+    "ghnDistrictCode":"1101",
+    "province":"Bắc Kạn",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Mê",
+    "ghnDistrictCode":"",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Bắc Ninh",
+    "ghnDistrictCode":"1901",
+    "province":"Bắc Ninh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Quang",
+    "ghnDistrictCode":"0510",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Sơn",
+    "ghnDistrictCode":"1005",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Tân Uyên",
+    "ghnDistrictCode":"4409",
+    "province":"Bình Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Trà My",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Bắc Từ Liêm",
+    "ghnDistrictCode":"0110",
+    "province":"Hà Nội",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bắc Yên",
+    "ghnDistrictCode":"",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Bến Cát",
+    "ghnDistrictCode":"4402",
+    "province":"Bình Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bến Cầu",
+    "ghnDistrictCode":"4607",
+    "province":"Tây Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bến Lức",
+    "ghnDistrictCode":"4908",
+    "province":"Long An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bến Tre",
+    "ghnDistrictCode":"5601",
+    "province":"Bến Tre",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Biên Hòa",
+    "ghnDistrictCode":"4801",
+    "province":"Đồng Nai",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bỉm Sơn",
+    "ghnDistrictCode":"2802",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Chánh",
+    "ghnDistrictCode":"0220",
+    "province":"TP Hồ Chí Minh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Đại",
+    "ghnDistrictCode":"5606",
+    "province":"Bến Tre",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Gia",
+    "ghnDistrictCode":"1003",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Giang",
+    "ghnDistrictCode":"2112",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Liêu",
+    "ghnDistrictCode":"1705",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Long",
+    "ghnDistrictCode":"4304",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Lục",
+    "ghnDistrictCode":"2406",
+    "province":"Hà Nam",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Minh",
+    "ghnDistrictCode":"5704",
+    "province":"Vĩnh Long",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Sơn",
+    "ghnDistrictCode":"3503",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Tân",
+    "ghnDistrictCode":"0219",
+    "province":"TP Hồ Chí Minh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Tân",
+    "ghnDistrictCode":"5708",
+    "province":"Vĩnh Long",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Thạnh",
+    "ghnDistrictCode":"0216",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Thủy",
+    "ghnDistrictCode":"5502",
+    "province":"Cần Thơ",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bình Xuyên",
+    "ghnDistrictCode":"1606",
+    "province":"Vĩnh Phúc",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Bố Trạch",
+    "ghnDistrictCode":"3105",
+    "province":"Quảng Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bù Đăng",
+    "ghnDistrictCode":"4308",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bù Đốp",
+    "ghnDistrictCode":"4306",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Bù Gia Mập",
+    "ghnDistrictCode":"4310",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Buôn Đôn",
+    "ghnDistrictCode":"4013",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Buôn Hồ",
+    "ghnDistrictCode":"4015",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Buôn Ma Thuột",
+    "ghnDistrictCode":"4001",
+    "province":"Đắk Lắk",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cà Mau",
+    "ghnDistrictCode":"6101",
+    "province":"Cà Mau",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cai Lậy",
+    "ghnDistrictCode":"",
+    "province":"Tiền Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Thị xã Cai Lậy",
+    "ghnDistrictCode":"5311",
+    "province":"Tiền Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cái Bè",
+    "ghnDistrictCode":"5303",
+    "province":"Tiền Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cái Nước",
+    "ghnDistrictCode":"6105",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cái Răng",
+    "ghnDistrictCode":"5503",
+    "province":"Cần Thơ",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cam Lâm",
+    "ghnDistrictCode":"4109",
+    "province":"Khánh Hòa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cam Lộ",
+    "ghnDistrictCode":"3205",
+    "province":"Quảng Trị",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cam Ranh",
+    "ghnDistrictCode":"4106",
+    "province":"Khánh Hòa",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Can Lộc",
+    "ghnDistrictCode":"3006",
+    "province":"Hà Tĩnh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Càng Long",
+    "ghnDistrictCode":"",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Cao Bằng",
+    "ghnDistrictCode":"0601",
+    "province":"Cao Bằng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cao Lãnh",
+    "ghnDistrictCode":"5001",
+    "province":"Đồng Tháp",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cao Lãnh",
+    "ghnDistrictCode":"5001",
+    "province":"Đồng Tháp",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cao Lộc",
+    "ghnDistrictCode":"1007",
+    "province":"Lạng Sơn",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cao Phong",
+    "ghnDistrictCode":"",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Cát Hải",
+    "ghnDistrictCode":"",
+    "province":"Hải Phòng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Cát Tiên",
+    "ghnDistrictCode":"4209",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Giàng",
+    "ghnDistrictCode":"2109",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Khê",
+    "ghnDistrictCode":"1506",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Lệ",
+    "ghnDistrictCode":"0407",
+    "province":"Đà Nẵng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Mỹ",
+    "ghnDistrictCode":"4811",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Phả",
+    "ghnDistrictCode":"1702",
+    "province":"Quảng Ninh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cần Giuộc",
+    "ghnDistrictCode":"4913",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Đức",
+    "ghnDistrictCode":"5207",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"",
+    "province":"Hậu Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5305",
+    "province":"Tiền Giang",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Chiêm Hóa",
+    "ghnDistrictCode":"0904",
+    "province":"Tuyên Quang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chợ Mới",
+    "ghnDistrictCode":"5109",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chư Sê",
+    "ghnDistrictCode":"3809",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cồn Cỏ",
+    "ghnDistrictCode":"",
+    "province":"Quảng Trị",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Cư Jút",
+    "ghnDistrictCode":"6304",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Dĩ An",
+    "ghnDistrictCode":"4405",
+    "province":"Bình Dương",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Duyên Hải",
+    "ghnDistrictCode":"5809",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đà Bắc",
+    "ghnDistrictCode":"2302",
+    "province":"Hòa Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đại Lộc",
+    "ghnDistrictCode":"3405",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đắk Glei",
+    "ghnDistrictCode":"3602",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đăk Song",
+    "ghnDistrictCode":"",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đất Đỏ",
+    "ghnDistrictCode":"5208",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đình Lập",
+    "ghnDistrictCode":"1010",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đồ Sơn",
+    "ghnDistrictCode":"0306",
+    "province":"Hải Phòng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Hòa",
+    "ghnDistrictCode":"3907",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đồng Hỷ",
+    "ghnDistrictCode":"1207",
+    "province":"Thái Nguyên",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Đống Đa",
+    "ghnDistrictCode":"1A04",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Linh",
+    "ghnDistrictCode":"4707",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ea Kar",
+    "ghnDistrictCode":"4008",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gia Nghĩa",
+    "ghnDistrictCode":"6301",
+    "province":"Đắk Nông",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gio Linh",
+    "ghnDistrictCode":"3204",
+    "province":"Quảng Trị",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gò Công Tây",
+    "ghnDistrictCode":"5307",
+    "province":"Tiền Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hà Giang",
+    "ghnDistrictCode":"0501",
+    "province":"Hà Giang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hạ Hòa",
+    "ghnDistrictCode":"1505",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hải Châu",
+    "ghnDistrictCode":"0401",
+    "province":"Đà Nẵng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hàm Tân",
+    "ghnDistrictCode":"",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hiệp Đức",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hòa Bình",
+    "ghnDistrictCode":"2301",
+    "province":"Hòa Bình",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoài Đức",
+    "ghnDistrictCode":"1B23",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoàng Sa",
+    "ghnDistrictCode":"",
+    "province":"Đà Nẵng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hòn Đất",
+    "ghnDistrictCode":"5404",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hồng Lĩnh",
+    "ghnDistrictCode":"3002",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hưng Nguyên",
+    "ghnDistrictCode":"2918",
+    "province":"Nghệ An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hương Trà",
+    "ghnDistrictCode":"3304",
+    "province":"Thừa Thiên - Huế",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ia Pa",
+    "ghnDistrictCode":"3814",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Khoái Châu",
+    "ghnDistrictCode":"2204",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kiến Xương",
+    "ghnDistrictCode":"2606",
+    "province":"Thái Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kim Sơn",
+    "ghnDistrictCode":"2707",
+    "province":"Ninh Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kon Tum",
+    "ghnDistrictCode":"3601",
+    "province":"Kon Tum",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Krông Năng",
+    "ghnDistrictCode":"4004",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kỳ Anh",
+    "ghnDistrictCode":"3010",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lạc Sơn",
+    "ghnDistrictCode":"",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Lang Chánh",
+    "ghnDistrictCode":"2811",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lâm Bình",
+    "ghnDistrictCode":"0902",
+    "province":"Tuyên Quang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lê Chân",
+    "ghnDistrictCode":"0302",
+    "province":"Hải Phòng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Hồ",
+    "ghnDistrictCode":"5702",
+    "province":"Vĩnh Long",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Thành",
+    "ghnDistrictCode":"4808",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lộc Ninh",
+    "ghnDistrictCode":"4305",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lương Tài",
+    "ghnDistrictCode":"1908",
+    "province":"Bắc Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mang Thít",
+    "ghnDistrictCode":"",
+    "province":"Vĩnh Long",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Minh Hóa",
+    "ghnDistrictCode":"3103",
+    "province":"Quảng Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mộ Đức",
+    "ghnDistrictCode":"3510",
+    "province":"Quảng Ngãi",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường Chà",
+    "ghnDistrictCode":"6205",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường Nhé",
+    "ghnDistrictCode":"6208",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỹ Tho",
+    "ghnDistrictCode":"5301",
+    "province":"Tiền Giang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nam Đàn",
+    "ghnDistrictCode":"2917",
+    "province":"Nghệ An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nam Trà My",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Nậm Nhùn",
+    "ghnDistrictCode":"",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Nghi Lộc",
+    "ghnDistrictCode":"2916",
+    "province":"Nghệ An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngọc Hiển",
+    "ghnDistrictCode":"",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Nguyên Bình",
+    "ghnDistrictCode":"0607",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Như Thanh",
+    "ghnDistrictCode":"",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Ninh Hòa",
+    "ghnDistrictCode":"4103",
+    "province":"Khánh Hòa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nông Sơn",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phan Thiết",
+    "ghnDistrictCode":"4701",
+    "province":"Bình Thuận",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Bình",
+    "ghnDistrictCode":"1208",
+    "province":"Thái Nguyên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Nhuận",
+    "ghnDistrictCode":"0217",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Tân",
+    "ghnDistrictCode":"5105",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phù Cát",
+    "ghnDistrictCode":"3706",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phủ Lý",
+    "ghnDistrictCode":"2401",
+    "province":"Hà Nam",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phước Long",
+    "ghnDistrictCode":"4307",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quan Sơn",
+    "ghnDistrictCode":"2805",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Ninh",
+    "ghnDistrictCode":"3106",
+    "province":"Quảng Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Xương",
+    "ghnDistrictCode":"2825",
+    "province":"Thanh Hóa",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 5",
+    "ghnDistrictCode":"0205",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 10",
+    "ghnDistrictCode":"0210",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quế Võ",
+    "ghnDistrictCode":"1903",
+    "province":"Bắc Ninh",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Quỳnh Lưu",
+    "ghnDistrictCode":"2906",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sa Pa",
+    "ghnDistrictCode":"0805",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sóc Sơn",
+    "ghnDistrictCode":"1A14",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sông Lô",
+    "ghnDistrictCode":"1607",
+    "province":"Vĩnh Phúc",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn Hà",
+    "ghnDistrictCode":"3506",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn Tịnh",
+    "ghnDistrictCode":"3505",
+    "province":"Quảng Ngãi",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Tam Điệp",
+    "ghnDistrictCode":"2702",
+    "province":"Ninh Bình",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Tánh Linh",
+    "ghnDistrictCode":"",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tân Hiệp",
+    "ghnDistrictCode":"5405",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Phú",
+    "ghnDistrictCode":"4803",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Thành",
+    "ghnDistrictCode":"5206",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Yên",
+    "ghnDistrictCode":"1806",
+    "province":"Bắc Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Thủy",
+    "ghnDistrictCode":"2814",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cầu Giấy",
+    "ghnDistrictCode":"1A06",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Phú",
+    "ghnDistrictCode":"5108",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5406",
+    "province":"Kiên Giang",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5805",
+    "province":"Trà Vinh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chợ Đồn",
+    "ghnDistrictCode":"1102",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chơn Thành",
+    "ghnDistrictCode":"4303",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chương Mỹ",
+    "ghnDistrictCode":"1B21",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cờ Đỏ",
+    "ghnDistrictCode":"5506",
+    "province":"Cần Thơ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cư M'gar",
+    "ghnDistrictCode":"4006",
+    "province":"Đắk Lắk",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Diên Khánh",
+    "ghnDistrictCode":"4104",
+    "province":"Khánh Hòa",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Duyên Hải",
+    "ghnDistrictCode":"5809",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đại Từ",
+    "ghnDistrictCode":"",
+    "province":"Thái Nguyên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đắk Glong",
+    "ghnDistrictCode":"6307",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đăk Tô",
+    "ghnDistrictCode":"",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Điện Bàn",
+    "ghnDistrictCode":"3404",
+    "province":"Quảng Nam",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Định Hóa",
+    "ghnDistrictCode":"1203",
+    "province":"Thái Nguyên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Anh",
+    "ghnDistrictCode":"1A13",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Hưng",
+    "ghnDistrictCode":"2604",
+    "province":"Thái Bình",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Đồng Phú",
+    "ghnDistrictCode":"4302",
+    "province":"Bình Phước",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Đơn Dương",
+    "ghnDistrictCode":"4205",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Phổ",
+    "ghnDistrictCode":"3511",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ea Súp",
+    "ghnDistrictCode":"",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Gia Viễn",
+    "ghnDistrictCode":"2704",
+    "province":"Ninh Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Giồng Riềng",
+    "ghnDistrictCode":"5407",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gò Dầu",
+    "ghnDistrictCode":"4608",
+    "province":"Tây Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hà Quảng",
+    "ghnDistrictCode":"0604",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hạ Lang",
+    "ghnDistrictCode":"0611",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hải Dương",
+    "ghnDistrictCode":"2101",
+    "province":"Hải Dương",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hàm Thuận Bắc",
+    "ghnDistrictCode":"",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hiệp Hòa",
+    "ghnDistrictCode":"1807",
+    "province":"Bắc Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hòa Thành",
+    "ghnDistrictCode":"4606",
+    "province":"Tây Ninh",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Hoài Nhơn",
+    "ghnDistrictCode":"3704",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoàng Su Phì",
+    "ghnDistrictCode":"0508",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hớn Quản",
+    "ghnDistrictCode":"4309",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hồng Ngự",
+    "ghnDistrictCode":"5004",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hưng Yên",
+    "ghnDistrictCode":"2201",
+    "province":"Hưng Yên",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hướng Hóa",
+    "ghnDistrictCode":"3208",
+    "province":"Quảng Trị",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"KBang",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Kiên Hải",
+    "ghnDistrictCode":"",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Kiến Tường",
+    "ghnDistrictCode":"4915",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kim Thành",
+    "ghnDistrictCode":"2111",
+    "province":"Hải Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kông Chro",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Krông Nô",
+    "ghnDistrictCode":"",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Kỳ Sơn",
+    "ghnDistrictCode":"2306",
+    "province":"Hòa Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lạc Thủy",
+    "ghnDistrictCode":"",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Lạng Sơn",
+    "ghnDistrictCode":"1001",
+    "province":"Lạng Sơn",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lâm Thao",
+    "ghnDistrictCode":"1510",
+    "province":"Phú Thọ",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Liên Chiểu",
+    "ghnDistrictCode":"0405",
+    "province":"Đà Nẵng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thị xã Long Mỹ",
+    "ghnDistrictCode":"6408",
+    "province":"Hậu Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lộc Bình",
+    "ghnDistrictCode":"1008",
+    "province":"Lạng Sơn",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lục Yên",
+    "ghnDistrictCode":"1309",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mai Châu",
+    "ghnDistrictCode":"",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Mèo Vạc",
+    "ghnDistrictCode":"0503",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỏ Cày Nam",
+    "ghnDistrictCode":"5609",
+    "province":"Bến Tre",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mù Cang Chải",
+    "ghnDistrictCode":"1305",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường Lát",
+    "ghnDistrictCode":"2806",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỹ Hào",
+    "ghnDistrictCode":"2208",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Na Hang",
+    "ghnDistrictCode":"0903",
+    "province":"Tuyên Quang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nam Giang",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Năm Căn",
+    "ghnDistrictCode":"6108",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngã Năm",
+    "ghnDistrictCode":"5909",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nghĩa Hành",
+    "ghnDistrictCode":"3508",
+    "province":"Quảng Ngãi",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngọc Lặc",
+    "ghnDistrictCode":"2812",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nhà Bè",
+    "ghnDistrictCode":"0223",
+    "province":"TP Hồ Chí Minh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ninh Bình",
+    "ghnDistrictCode":"2701",
+    "province":"Ninh Bình",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ninh Phước",
+    "ghnDistrictCode":"4504",
+    "province":"Ninh Thuận",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ô Môn",
+    "ghnDistrictCode":"5504",
+    "province":"Cần Thơ",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phong Điền",
+    "ghnDistrictCode":"",
+    "province":"Thừa Thiên - Huế",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phú Giáo",
+    "ghnDistrictCode":"4406",
+    "province":"Bình Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Ninh",
+    "ghnDistrictCode":"3417",
+    "province":"Quảng Nam",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Tân",
+    "ghnDistrictCode":"6109",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Xuyên",
+    "ghnDistrictCode":"1B28",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phù Yên",
+    "ghnDistrictCode":"1406",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phụng Hiệp",
+    "ghnDistrictCode":"6404",
+    "province":"Hậu Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quan Hóa",
+    "ghnDistrictCode":"2804",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Ngãi",
+    "ghnDistrictCode":"3501",
+    "province":"Quảng Ngãi",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Uyên",
+    "ghnDistrictCode":"0609",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 4",
+    "ghnDistrictCode":"0204",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 9",
+    "ghnDistrictCode":"0209",
+    "province":"TP Hồ Chí Minh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quế Sơn",
+    "ghnDistrictCode":"3406",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quỳ Hợp",
+    "ghnDistrictCode":"2904",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sa Đéc",
+    "ghnDistrictCode":"5002",
+    "province":"Đồng Tháp",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sìn Hồ",
+    "ghnDistrictCode":"0704",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sông Hinh",
+    "ghnDistrictCode":"",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Sơn Dương",
+    "ghnDistrictCode":"0907",
+    "province":"Tuyên Quang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn Tây",
+    "ghnDistrictCode":"3513",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Đảo",
+    "ghnDistrictCode":"1609",
+    "province":"Vĩnh Phúc",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Nông",
+    "ghnDistrictCode":"1511",
+    "province":"Phú Thọ",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Châu",
+    "ghnDistrictCode":"5104",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Kỳ",
+    "ghnDistrictCode":"2910",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Phước",
+    "ghnDistrictCode":"5309",
+    "province":"Tiền Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Uyên",
+    "ghnDistrictCode":"4403",
+    "province":"Bình Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cẩm Xuyên",
+    "ghnDistrictCode":"3009",
+    "province":"Hà Tĩnh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cầu Kè",
+    "ghnDistrictCode":"",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5110",
+    "province":"An Giang",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"4910",
+    "province":"Long An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Thành A",
+    "ghnDistrictCode":"6406",
+    "province":"Hậu Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chợ Gạo",
+    "ghnDistrictCode":"5306",
+    "province":"Tiền Giang",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Chư Păh",
+    "ghnDistrictCode":"3802",
+    "province":"Gia Lai",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Con Cuông",
+    "ghnDistrictCode":"2909",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cù Lao Dung",
+    "ghnDistrictCode":"",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Cửa Lò",
+    "ghnDistrictCode":"2902",
+    "province":"Nghệ An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Diễn Châu",
+    "ghnDistrictCode":"2912",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Dương Kinh",
+    "ghnDistrictCode":"0315",
+    "province":"Hải Phòng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đà Lạt",
+    "ghnDistrictCode":"4201",
+    "province":"Lâm Đồng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đắk Đoa",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đắk Hà",
+    "ghnDistrictCode":"3607",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đầm Dơi",
+    "ghnDistrictCode":"6106",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Điện Biên",
+    "ghnDistrictCode":"6203",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Định Quán",
+    "ghnDistrictCode":"4804",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Giang",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đông Sơn",
+    "ghnDistrictCode":"2820",
+    "province":"Thanh Hóa",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đồng Văn",
+    "ghnDistrictCode":"0502",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Cơ",
+    "ghnDistrictCode":"3807",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Thọ",
+    "ghnDistrictCode":"3004",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gia Bình",
+    "ghnDistrictCode":"1907",
+    "province":"Bắc Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Giá Rai",
+    "ghnDistrictCode":"6004",
+    "province":"Bạc Liêu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Giồng Trôm",
+    "ghnDistrictCode":"5605",
+    "province":"Bến Tre",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gò Quao",
+    "ghnDistrictCode":"",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hà Tiên",
+    "ghnDistrictCode":"5402",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hạ Long",
+    "ghnDistrictCode":"1701",
+    "province":"Quảng Ninh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hải Hà",
+    "ghnDistrictCode":"1707",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hàm Thuận Nam",
+    "ghnDistrictCode":"4705",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoa Lư",
+    "ghnDistrictCode":"2705",
+    "province":"Ninh Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hòa Vang",
+    "ghnDistrictCode":"0406",
+    "province":"Đà Nẵng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoàng Mai",
+    "ghnDistrictCode":"1A08",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoằng Hóa",
+    "ghnDistrictCode":"2822",
+    "province":"Thanh Hóa",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hồng Bàng",
+    "ghnDistrictCode":"0301",
+    "province":"Hải Phòng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Huế",
+    "ghnDistrictCode":"3301",
+    "province":"Thừa Thiên - Huế",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hương Sơn",
+    "ghnDistrictCode":"3003",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ia Grai",
+    "ghnDistrictCode":"3812",
+    "province":"Gia Lai",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Khánh Sơn",
+    "ghnDistrictCode":"4107",
+    "province":"Khánh Hòa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kiến An",
+    "ghnDistrictCode":"0304",
+    "province":"Hải Phòng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kim Bôi",
+    "ghnDistrictCode":"",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Kon Plông",
+    "ghnDistrictCode":"3606",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Krông Bông",
+    "ghnDistrictCode":"4011",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Krông Pắk",
+    "ghnDistrictCode":"4007",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"La Gi",
+    "ghnDistrictCode":"4710",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lạng Giang",
+    "ghnDistrictCode":"1808",
+    "province":"Bắc Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lâm Hà",
+    "ghnDistrictCode":"4210",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lệ Thủy",
+    "ghnDistrictCode":"3107",
+    "province":"Quảng Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Khánh",
+    "ghnDistrictCode":"4806",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Xuyên",
+    "ghnDistrictCode":"5101",
+    "province":"An Giang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lục Nam",
+    "ghnDistrictCode":"1805",
+    "province":"Bắc Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lý Nhân",
+    "ghnDistrictCode":"2404",
+    "province":"Hà Nam",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mang Yang",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Minh Long",
+    "ghnDistrictCode":"3509",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mộc Châu",
+    "ghnDistrictCode":"1410",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường Khương",
+    "ghnDistrictCode":"0809",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường Tè",
+    "ghnDistrictCode":"",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Mỹ Tú",
+    "ghnDistrictCode":"5903",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nam Định",
+    "ghnDistrictCode":"2501",
+    "province":"Nam Định",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nam Trực",
+    "ghnDistrictCode":"2507",
+    "province":"Nam Định",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nga Sơn",
+    "ghnDistrictCode":"2823",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nghi Xuân",
+    "ghnDistrictCode":"3005",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nghĩa Lộ",
+    "ghnDistrictCode":"1302",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngũ Hành Sơn",
+    "ghnDistrictCode":"0404",
+    "province":"Đà Nẵng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nhơn Trạch",
+    "ghnDistrictCode":"4809",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ninh Hải",
+    "ghnDistrictCode":"4503",
+    "province":"Ninh Thuận",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nông Cống",
+    "ghnDistrictCode":"",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phan Rang - Tháp Chàm",
+    "ghnDistrictCode":"4501",
+    "province":"Ninh Thuận",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phổ Yên",
+    "ghnDistrictCode":"1209",
+    "province":"Thái Nguyên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Lương",
+    "ghnDistrictCode":"",
+    "province":"Thái Nguyên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phú Riềng",
+    "ghnDistrictCode":"",
+    "province":"Bình Phước",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phú Vang",
+    "ghnDistrictCode":"3305",
+    "province":"Thừa Thiên - Huế",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phù Ninh",
+    "ghnDistrictCode":"1509",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phục Hòa",
+    "ghnDistrictCode":"0613",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Pleiku",
+    "ghnDistrictCode":"3801",
+    "province":"Gia Lai",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Điền",
+    "ghnDistrictCode":"3303",
+    "province":"Thừa Thiên - Huế",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Yên",
+    "ghnDistrictCode":"1711",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 3",
+    "ghnDistrictCode":"0203",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 8",
+    "ghnDistrictCode":"0208",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quế Phong",
+    "ghnDistrictCode":"2919",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quỳ Châu",
+    "ghnDistrictCode":"2903",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Rạch Giá",
+    "ghnDistrictCode":"5401",
+    "province":"Kiên Giang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Si Ma Cai",
+    "ghnDistrictCode":"",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Sông Công",
+    "ghnDistrictCode":"1202",
+    "province":"Thái Nguyên",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn Động",
+    "ghnDistrictCode":"1804",
+    "province":"Bắc Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn Tây",
+    "ghnDistrictCode":"1B16",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Dương",
+    "ghnDistrictCode":"1602",
+    "province":"Vĩnh Phúc",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Nông",
+    "ghnDistrictCode":"5005",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Bình",
+    "ghnDistrictCode":"0214",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Hưng",
+    "ghnDistrictCode":"4914",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Phú Đông",
+    "ghnDistrictCode":"",
+    "province":"Tiền Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tân Trụ",
+    "ghnDistrictCode":"4911",
+    "province":"Long An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tây Hòa",
+    "ghnDistrictCode":"3909",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cần Đước",
+    "ghnDistrictCode":"4912",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cầu Ngang",
+    "ghnDistrictCode":"5807",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5602",
+    "province":"Bến Tre",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5910",
+    "province":"Sóc Trăng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chi Lăng",
+    "ghnDistrictCode":"1009",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chợ Mới",
+    "ghnDistrictCode":"1107",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chư Pưh",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Côn Đảo",
+    "ghnDistrictCode":"",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Cư Kuin",
+    "ghnDistrictCode":"4014",
+    "province":"Đắk Lắk",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Di Linh",
+    "ghnDistrictCode":"4204",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Duy Xuyên",
+    "ghnDistrictCode":"3403",
+    "province":"Quảng Nam",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Đa Krông",
+    "ghnDistrictCode":"",
+    "province":"Quảng Trị",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đạ Tẻh",
+    "ghnDistrictCode":"4208",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đan Phượng",
+    "ghnDistrictCode":"1B22",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đắk R'lấp",
+    "ghnDistrictCode":"6302",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đam Rông",
+    "ghnDistrictCode":"4212",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Điện Biên Phủ",
+    "ghnDistrictCode":"6201",
+    "province":"Điện Biên",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đô Lương",
+    "ghnDistrictCode":"2914",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Hải",
+    "ghnDistrictCode":"6006",
+    "province":"Bạc Liêu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đồng Hới",
+    "ghnDistrictCode":"3101",
+    "province":"Quảng Bình",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đồng Xuân",
+    "ghnDistrictCode":"3902",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Huệ",
+    "ghnDistrictCode":"4906",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ea H'leo",
+    "ghnDistrictCode":"4002",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gia Lộc",
+    "ghnDistrictCode":"2105",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Giao Thủy",
+    "ghnDistrictCode":"2504",
+    "province":"Nam Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gò Công Đông",
+    "ghnDistrictCode":"5308",
+    "province":"Tiền Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hà Đông",
+    "ghnDistrictCode":"1B15",
+    "province":"Hà Nội",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hà Trung",
+    "ghnDistrictCode":"2821",
+    "province":"Thanh Hóa",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hải An",
+    "ghnDistrictCode":"0305",
+    "province":"Hải Phòng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hải Lăng",
+    "ghnDistrictCode":"",
+    "province":"Quảng Trị",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hậu Lộc",
+    "ghnDistrictCode":"2824",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hòa Bình",
+    "ghnDistrictCode":"6007",
+    "province":"Bạc Liêu",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Hoàn Kiếm",
+    "ghnDistrictCode":"1A02",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoành Bồ",
+    "ghnDistrictCode":"1712",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hội An",
+    "ghnDistrictCode":"3402",
+    "province":"Quảng Nam",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hồng Ngự",
+    "ghnDistrictCode":"5004",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hương Khê",
+    "ghnDistrictCode":"3007",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hữu Lũng",
+    "ghnDistrictCode":"1011",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kế Sách",
+    "ghnDistrictCode":"5902",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kiên Lương",
+    "ghnDistrictCode":"5403",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kim Bảng",
+    "ghnDistrictCode":"2403",
+    "province":"Hà Nam",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kinh Môn",
+    "ghnDistrictCode":"2104",
+    "province":"Hải Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Krông Ana",
+    "ghnDistrictCode":"4010",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Krông Pa",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Kỳ Sơn",
+    "ghnDistrictCode":"2907",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lai Châu",
+    "ghnDistrictCode":"0701",
+    "province":"Lai Châu",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lào Cai",
+    "ghnDistrictCode":"0801",
+    "province":"Lào Cai",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lấp Vò",
+    "ghnDistrictCode":"5008",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Biên",
+    "ghnDistrictCode":"1A09",
+    "province":"Hà Nội",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Mỹ",
+    "ghnDistrictCode":"",
+    "province":"Hậu Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Lộc Hà",
+    "ghnDistrictCode":"3012",
+    "province":"Hà Tĩnh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lương Sơn",
+    "ghnDistrictCode":"2307",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mai Sơn",
+    "ghnDistrictCode":"1407",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mê Linh",
+    "ghnDistrictCode":"1B29",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Móng Cái",
+    "ghnDistrictCode":"1704",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường Ảng",
+    "ghnDistrictCode":"",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Mường Lay",
+    "ghnDistrictCode":"6202",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỹ Lộc",
+    "ghnDistrictCode":"2502",
+    "province":"Nam Định",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Na Rì",
+    "ghnDistrictCode":"",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Nam Sách",
+    "ghnDistrictCode":"2103",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Nậm Pồ",
+    "ghnDistrictCode":"",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Ngân Sơn",
+    "ghnDistrictCode":"1105",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nghĩa Hưng",
+    "ghnDistrictCode":"2509",
+    "province":"Nam Định",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngô Quyền",
+    "ghnDistrictCode":"0303",
+    "province":"Hải Phòng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nho Quan",
+    "ghnDistrictCode":"2703",
+    "province":"Ninh Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ninh Giang",
+    "ghnDistrictCode":"2108",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ninh Sơn",
+    "ghnDistrictCode":"4502",
+    "province":"Ninh Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Pác Nặm",
+    "ghnDistrictCode":"1108",
+    "province":"Bắc Kạn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phong Điền",
+    "ghnDistrictCode":"5505",
+    "province":"Cần Thơ",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Hòa",
+    "ghnDistrictCode":"3908",
+    "province":"Phú Yên",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Quý",
+    "ghnDistrictCode":"",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phú Thiện",
+    "ghnDistrictCode":"3816",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phù Cừ",
+    "ghnDistrictCode":"",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phúc Thọ",
+    "ghnDistrictCode":"1B18",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phước Long",
+    "ghnDistrictCode":"6005",
+    "province":"Bạc Liêu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quản Bạ",
+    "ghnDistrictCode":"0505",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Trạch",
+    "ghnDistrictCode":"3104",
+    "province":"Quảng Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 1",
+    "ghnDistrictCode":"0201",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 6",
+    "ghnDistrictCode":"0206",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 11",
+    "ghnDistrictCode":"0211",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quy Nhơn",
+    "ghnDistrictCode":"3701",
+    "province":"Bình Định",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quỳnh Nhai",
+    "ghnDistrictCode":"",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Sa Thầy",
+    "ghnDistrictCode":"",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Sóc Trăng",
+    "ghnDistrictCode":"5901",
+    "province":"Sóc Trăng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sông Mã",
+    "ghnDistrictCode":"1409",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn Hòa",
+    "ghnDistrictCode":"",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Sơn Trà",
+    "ghnDistrictCode":"0403",
+    "province":"Đà Nẵng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Đường",
+    "ghnDistrictCode":"0702",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân An",
+    "ghnDistrictCode":"4901",
+    "province":"Long An",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Châu",
+    "ghnDistrictCode":"",
+    "province":"Tây Ninh",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tân Lạc",
+    "ghnDistrictCode":"2304",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Sơn",
+    "ghnDistrictCode":"",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tân Uyên",
+    "ghnDistrictCode":"0707",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tây Ninh",
+    "ghnDistrictCode":"4601",
+    "province":"Tây Ninh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cần Giờ",
+    "ghnDistrictCode":"",
+    "province":"TP Hồ Chí Minh",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Châu Đốc",
+    "ghnDistrictCode":"5102",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"5011",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Châu Thành",
+    "ghnDistrictCode":"4605",
+    "province":"Tây Ninh",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Chí Linh",
+    "ghnDistrictCode":"2102",
+    "province":"Hải Dương",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chợ Lách",
+    "ghnDistrictCode":"5603",
+    "province":"Bến Tre",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Chư Prông",
+    "ghnDistrictCode":"3808",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Cô Tô",
+    "ghnDistrictCode":"",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Củ Chi",
+    "ghnDistrictCode":"0221",
+    "province":"TP Hồ Chí Minh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Dầu Tiếng",
+    "ghnDistrictCode":"4407",
+    "province":"Bình Dương",
+    "type":3,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Duy Tiên",
+    "ghnDistrictCode":"2402",
+    "province":"Hà Nam",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Dương Minh Châu",
+    "ghnDistrictCode":"4604",
+    "province":"Tây Ninh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đạ Huoai",
+    "ghnDistrictCode":"",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đắk Pơ",
+    "ghnDistrictCode":"",
+    "province":"Gia Lai",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đắk Mil",
+    "ghnDistrictCode":"6303",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đầm Hà",
+    "ghnDistrictCode":"1706",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Điện Biên Đông",
+    "ghnDistrictCode":"",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Đoan Hùng",
+    "ghnDistrictCode":"1503",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Hà",
+    "ghnDistrictCode":"3201",
+    "province":"Quảng Trị",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đông Triều",
+    "ghnDistrictCode":"1710",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đồng Xoài",
+    "ghnDistrictCode":"4301",
+    "province":"Bình Phước",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Hòa",
+    "ghnDistrictCode":"4907",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Đức Trọng",
+    "ghnDistrictCode":"4203",
+    "province":"Lâm Đồng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gia Lâm",
+    "ghnDistrictCode":"1A12",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Giang Thành",
+    "ghnDistrictCode":"",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Gò Công",
+    "ghnDistrictCode":"5302",
+    "province":"Tiền Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Gò Vấp",
+    "ghnDistrictCode":"0213",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hà Tĩnh",
+    "ghnDistrictCode":"3001",
+    "province":"Hà Tĩnh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hai Bà Trưng",
+    "ghnDistrictCode":"1A03",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hải Hậu",
+    "ghnDistrictCode":"2510",
+    "province":"Nam Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hàm Yên",
+    "ghnDistrictCode":"0905",
+    "province":"Tuyên Quang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hòa An",
+    "ghnDistrictCode":"0608",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hoài Ân",
+    "ghnDistrictCode":"",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Hoàng Mai",
+    "ghnDistrictCode":"2921",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hóc Môn",
+    "ghnDistrictCode":"0222",
+    "province":"TP Hồ Chí Minh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hồng Dân",
+    "ghnDistrictCode":"6003",
+    "province":"Bạc Liêu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hưng Hà",
+    "ghnDistrictCode":"2603",
+    "province":"Thái Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Hương Thủy",
+    "ghnDistrictCode":"3306",
+    "province":"Thừa Thiên - Huế",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ia H'Drai",
+    "ghnDistrictCode":"",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Khánh Vĩnh",
+    "ghnDistrictCode":"4105",
+    "province":"Khánh Hòa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kiến Thụy",
+    "ghnDistrictCode":"0308",
+    "province":"Hải Phòng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Kim Động",
+    "ghnDistrictCode":"2202",
+    "province":"Hưng Yên",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Kon Rẫy",
+    "ghnDistrictCode":"",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Krông Búk",
+    "ghnDistrictCode":"",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Kỳ Anh",
+    "ghnDistrictCode":"3010",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lạc Dương",
+    "ghnDistrictCode":"4206",
+    "province":"Lâm Đồng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lai Vung",
+    "ghnDistrictCode":"5010",
+    "province":"Đồng Tháp",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Lắk",
+    "ghnDistrictCode":"4012",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lập Thạch",
+    "ghnDistrictCode":"1603",
+    "province":"Vĩnh Phúc",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Điền",
+    "ghnDistrictCode":"5204",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Long Phú",
+    "ghnDistrictCode":"",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Lục Ngạn",
+    "ghnDistrictCode":"1803",
+    "province":"Bắc Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Lý Sơn",
+    "ghnDistrictCode":"",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"M'Đrăk",
+    "ghnDistrictCode":"4009",
+    "province":"Đắk Lắk",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỏ Cày Bắc",
+    "ghnDistrictCode":"5604",
+    "province":"Bến Tre",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mộc Hóa",
+    "ghnDistrictCode":"4903",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mường La",
+    "ghnDistrictCode":"1403",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỹ Đức",
+    "ghnDistrictCode":"1B25",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Mỹ Xuyên",
+    "ghnDistrictCode":"5904",
+    "province":"Sóc Trăng",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Nam Đông",
+    "ghnDistrictCode":"3308",
+    "province":"Thừa Thiên - Huế",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nam Từ Liêm",
+    "ghnDistrictCode":"0130",
+    "province":"Hà Nội",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngã Bảy",
+    "ghnDistrictCode":"6407",
+    "province":"Hậu Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Nghĩa Đàn",
+    "ghnDistrictCode":"2905",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ngọc Hồi",
+    "ghnDistrictCode":"",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Nha Trang",
+    "ghnDistrictCode":"4101",
+    "province":"Khánh Hòa",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Như Xuân",
+    "ghnDistrictCode":"2809",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ninh Kiều",
+    "ghnDistrictCode":"5501",
+    "province":"Cần Thơ",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Núi Thành",
+    "ghnDistrictCode":"3409",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phong Thổ",
+    "ghnDistrictCode":"0703",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Lộc",
+    "ghnDistrictCode":"3307",
+    "province":"Thừa Thiên - Huế",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phú Quốc",
+    "ghnDistrictCode":"",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Phú Thọ",
+    "ghnDistrictCode":"1502",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phù Mỹ",
+    "ghnDistrictCode":"3705",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phúc Yên",
+    "ghnDistrictCode":"1608",
+    "province":"Vĩnh Phúc",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Phước Sơn",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Quang Bình",
+    "ghnDistrictCode":"0511",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quảng Trị",
+    "ghnDistrictCode":"3202",
+    "province":"Quảng Trị",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 2",
+    "ghnDistrictCode":"0202",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 7",
+    "ghnDistrictCode":"0207",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quận 12",
+    "ghnDistrictCode":"0212",
+    "province":"TP Hồ Chí Minh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quốc Oai",
+    "ghnDistrictCode":"1B20",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Quỳnh Phụ",
+    "ghnDistrictCode":"2602",
+    "province":"Thái Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sầm Sơn",
+    "ghnDistrictCode":"2803",
+    "province":"Thanh Hóa",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Sông Cầu",
+    "ghnDistrictCode":"3903",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sốp Cộp",
+    "ghnDistrictCode":"1411",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Sơn La",
+    "ghnDistrictCode":"1401",
+    "province":"Sơn La",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Bình",
+    "ghnDistrictCode":"5705",
+    "province":"Vĩnh Long",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tam Kỳ",
+    "ghnDistrictCode":"3401",
+    "province":"Quảng Nam",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Biên",
+    "ghnDistrictCode":"4602",
+    "province":"Tây Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Hồng",
+    "ghnDistrictCode":"5003",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Phú",
+    "ghnDistrictCode":"0215",
+    "province":"TP Hồ Chí Minh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tân Thạnh",
+    "ghnDistrictCode":"4904",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tây Giang",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tây Trà",
+    "ghnDistrictCode":"",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tây Hồ",
+    "ghnDistrictCode":"1A05",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thạch Hà",
+    "ghnDistrictCode":"3008",
+    "province":"Hà Tĩnh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thái Nguyên",
+    "ghnDistrictCode":"1201",
+    "province":"Thái Nguyên",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Chương",
+    "ghnDistrictCode":"2915",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Miện",
+    "ghnDistrictCode":"2107",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Xuân",
+    "ghnDistrictCode":"1A07",
+    "province":"Hà Nội",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thăng Bình",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Thới Bình",
+    "ghnDistrictCode":"6102",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thuận An",
+    "ghnDistrictCode":"4404",
+    "province":"Bình Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thủy Nguyên",
+    "ghnDistrictCode":"0309",
+    "province":"Hải Phòng",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Tiên Lãng",
+    "ghnDistrictCode":"0311",
+    "province":"Hải Phòng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tĩnh Gia",
+    "ghnDistrictCode":"2826",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trà Ôn",
+    "ghnDistrictCode":"5706",
+    "province":"Vĩnh Long",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trảng Bom",
+    "ghnDistrictCode":"4810",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Triệu Phong",
+    "ghnDistrictCode":"3206",
+    "province":"Quảng Trị",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tủa Chùa",
+    "ghnDistrictCode":"6206",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tuy Hòa",
+    "ghnDistrictCode":"3901",
+    "province":"Phú Yên",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tư Nghĩa",
+    "ghnDistrictCode":"3507",
+    "province":"Quảng Ngãi",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"U Minh Thượng",
+    "ghnDistrictCode":"",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Văn Chấn",
+    "ghnDistrictCode":"1306",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Văn Yên",
+    "ghnDistrictCode":"1303",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vị Thủy",
+    "ghnDistrictCode":"6402",
+    "province":"Hậu Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Bảo",
+    "ghnDistrictCode":"0312",
+    "province":"Hải Phòng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Long",
+    "ghnDistrictCode":"5701",
+    "province":"Vĩnh Long",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Thuận",
+    "ghnDistrictCode":"",
+    "province":"Kiên Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Vũng Tàu",
+    "ghnDistrictCode":"5201",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Ý Yên",
+    "ghnDistrictCode":"2505",
+    "province":"Nam Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Định",
+    "ghnDistrictCode":"2827",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Mô",
+    "ghnDistrictCode":"2706",
+    "province":"Ninh Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Thế",
+    "ghnDistrictCode":"1802",
+    "province":"Bắc Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tây Sơn",
+    "ghnDistrictCode":"3708",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thạch Thất",
+    "ghnDistrictCode":"1B19",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Than Uyên",
+    "ghnDistrictCode":"0706",
+    "province":"Lai Châu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Hóa",
+    "ghnDistrictCode":"2801",
+    "province":"Thanh Hóa",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Sơn",
+    "ghnDistrictCode":"1508",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thạnh Phú",
+    "ghnDistrictCode":"5608",
+    "province":"Bến Tre",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thọ Xuân",
+    "ghnDistrictCode":"2815",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thốt Nốt",
+    "ghnDistrictCode":"5508",
+    "province":"Cần Thơ",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thủ Thừa",
+    "ghnDistrictCode":"4909",
+    "province":"Long An",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thuận Thành",
+    "ghnDistrictCode":"1906",
+    "province":"Bắc Ninh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tiền Hải",
+    "ghnDistrictCode":"2607",
+    "province":"Thái Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tiểu Cần",
+    "ghnDistrictCode":"5804",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trà Lĩnh",
+    "ghnDistrictCode":"0605",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trảng Bàng",
+    "ghnDistrictCode":"4609",
+    "province":"Tây Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tri Tôn",
+    "ghnDistrictCode":"5107",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trường Sa",
+    "ghnDistrictCode":"",
+    "province":"Khánh Hòa",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tuy Đức",
+    "ghnDistrictCode":"",
+    "province":"Đắk Nông",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tuyên Quang",
+    "ghnDistrictCode":"0901",
+    "province":"Tuyên Quang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"U Minh",
+    "ghnDistrictCode":"6103",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Văn Bàn",
+    "ghnDistrictCode":"0806",
+    "province":"Lào Cai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Văn Quan",
+    "ghnDistrictCode":"1006",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vị Thanh",
+    "ghnDistrictCode":"6401",
+    "province":"Hậu Giang",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vinh",
+    "ghnDistrictCode":"2901",
+    "province":"Nghệ An",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Linh",
+    "ghnDistrictCode":"3203",
+    "province":"Quảng Trị",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Thạnh",
+    "ghnDistrictCode":"5507",
+    "province":"Cần Thơ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vũ Quang",
+    "ghnDistrictCode":"3011",
+    "province":"Hà Tĩnh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Xín Mần",
+    "ghnDistrictCode":"0509",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Bái",
+    "ghnDistrictCode":"1301",
+    "province":"Yên Bái",
+    "type":1,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Yên Khánh",
+    "ghnDistrictCode":"2708",
+    "province":"Ninh Bình",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Yên Mỹ",
+    "ghnDistrictCode":"2205",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Thủy",
+    "ghnDistrictCode":"",
+    "province":"Hòa Bình",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Thạch An",
+    "ghnDistrictCode":"0610",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thái Hòa",
+    "ghnDistrictCode":"2920",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Bình",
+    "ghnDistrictCode":"5006",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Liêm",
+    "ghnDistrictCode":"2405",
+    "province":"Hà Nam",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Trì",
+    "ghnDistrictCode":"1A11",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tháp Mười",
+    "ghnDistrictCode":"5009",
+    "province":"Đồng Tháp",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thông Nông",
+    "ghnDistrictCode":"0603",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thủ Dầu Một",
+    "ghnDistrictCode":"4401",
+    "province":"Bình Dương",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thuận Châu",
+    "ghnDistrictCode":"1404",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thường Xuân",
+    "ghnDistrictCode":"2808",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tiên Phước",
+    "ghnDistrictCode":"",
+    "province":"Quảng Nam",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Trà Bồng",
+    "ghnDistrictCode":"3504",
+    "province":"Quảng Ngãi",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trạm Tấu",
+    "ghnDistrictCode":"",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Trần Đề",
+    "ghnDistrictCode":"5911",
+    "province":"Sóc Trăng",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trùng Khánh",
+    "ghnDistrictCode":"0606",
+    "province":"Cao Bằng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tu Mơ Rông",
+    "ghnDistrictCode":"",
+    "province":"Kon Tum",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tuy Phước",
+    "ghnDistrictCode":"3711",
+    "province":"Bình Định",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Từ Sơn",
+    "ghnDistrictCode":"1905",
+    "province":"Bắc Ninh",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Ứng Hòa",
+    "ghnDistrictCode":"1B26",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Văn Lãng",
+    "ghnDistrictCode":"1004",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vân Đồn",
+    "ghnDistrictCode":"1713",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Việt Trì",
+    "ghnDistrictCode":"1501",
+    "province":"Phú Thọ",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Cửu",
+    "ghnDistrictCode":"4802",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Lợi",
+    "ghnDistrictCode":"6002",
+    "province":"Bạc Liêu",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Yên",
+    "ghnDistrictCode":"1601",
+    "province":"Vĩnh Phúc",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vụ Bản",
+    "ghnDistrictCode":"2506",
+    "province":"Nam Định",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Xuân Trường",
+    "ghnDistrictCode":"2503",
+    "province":"Nam Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Châu",
+    "ghnDistrictCode":"",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Yên Lập",
+    "ghnDistrictCode":"",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Yên Sơn",
+    "ghnDistrictCode":"0906",
+    "province":"Tuyên Quang",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Thạch Thành",
+    "ghnDistrictCode":"2813",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thái Thụy",
+    "ghnDistrictCode":"2608",
+    "province":"Thái Bình",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Hà",
+    "ghnDistrictCode":"2110",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Oai",
+    "ghnDistrictCode":"1B24",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thạnh Hóa",
+    "ghnDistrictCode":"4905",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thiệu Hóa",
+    "ghnDistrictCode":"2817",
+    "province":"Thanh Hóa",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thống Nhất",
+    "ghnDistrictCode":"4805",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thủ Đức",
+    "ghnDistrictCode":"0218",
+    "province":"TP Hồ Chí Minh",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thuận Nam",
+    "ghnDistrictCode":"4507",
+    "province":"Ninh Thuận",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tiên Du",
+    "ghnDistrictCode":"1904",
+    "province":"Bắc Ninh",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Tiên Yên",
+    "ghnDistrictCode":"1708",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trà Cú",
+    "ghnDistrictCode":"5806",
+    "province":"Trà Vinh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tràng Định",
+    "ghnDistrictCode":"1002",
+    "province":"Lạng Sơn",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trần Văn Thời",
+    "ghnDistrictCode":"6104",
+    "province":"Cà Mau",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trực Ninh",
+    "ghnDistrictCode":"2508",
+    "province":"Nam Định",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tuy An",
+    "ghnDistrictCode":"3904",
+    "province":"Phú Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tuyên Hóa",
+    "ghnDistrictCode":"3102",
+    "province":"Quảng Bình",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tương Dương",
+    "ghnDistrictCode":"2908",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vạn Ninh",
+    "ghnDistrictCode":"4102",
+    "province":"Khánh Hòa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Văn Lâm",
+    "ghnDistrictCode":"2209",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vân Hồ",
+    "ghnDistrictCode":"",
+    "province":"Sơn La",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Việt Yên",
+    "ghnDistrictCode":"1809",
+    "province":"Bắc Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Hưng",
+    "ghnDistrictCode":"4902",
+    "province":"Long An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Thạnh",
+    "ghnDistrictCode":"",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Võ Nhai",
+    "ghnDistrictCode":"1205",
+    "province":"Thái Nguyên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vũng Liêm",
+    "ghnDistrictCode":"",
+    "province":"Vĩnh Long",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Xuyên Mộc",
+    "ghnDistrictCode":"5203",
+    "province":"Bà Rịa - Vũng Tàu",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Dũng",
+    "ghnDistrictCode":"1810",
+    "province":"Bắc Giang",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Minh",
+    "ghnDistrictCode":"0504",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Thành",
+    "ghnDistrictCode":"2911",
+    "province":"Nghệ An",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thái Bình",
+    "ghnDistrictCode":"2601",
+    "province":"Thái Bình",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Ba",
+    "ghnDistrictCode":"1504",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Khê",
+    "ghnDistrictCode":"0402",
+    "province":"Đà Nẵng",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thanh Thủy",
+    "ghnDistrictCode":"",
+    "province":"Phú Thọ",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Thạnh Trị",
+    "ghnDistrictCode":"",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Thoại Sơn",
+    "ghnDistrictCode":"5111",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thới Lai",
+    "ghnDistrictCode":"5509",
+    "province":"Cần Thơ",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thuận Bắc",
+    "ghnDistrictCode":"4506",
+    "province":"Ninh Thuận",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Thường Tín",
+    "ghnDistrictCode":"1B27",
+    "province":"Hà Nội",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tiên Lữ",
+    "ghnDistrictCode":"2206",
+    "province":"Hưng Yên",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tịnh Biên",
+    "ghnDistrictCode":"5106",
+    "province":"An Giang",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trà Vinh",
+    "ghnDistrictCode":"5801",
+    "province":"Trà Vinh",
+    "type":1,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Trấn Yên",
+    "ghnDistrictCode":"1307",
+    "province":"Yên Bái",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Triệu Sơn",
+    "ghnDistrictCode":"",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Tuần Giáo",
+    "ghnDistrictCode":"6204",
+    "province":"Điện Biên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tuy Phong",
+    "ghnDistrictCode":"4702",
+    "province":"Bình Thuận",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Tứ Kỳ",
+    "ghnDistrictCode":"2106",
+    "province":"Hải Dương",
+    "type":2,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Uông Bí",
+    "ghnDistrictCode":"1703",
+    "province":"Quảng Ninh",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Văn Giang",
+    "ghnDistrictCode":"2210",
+    "province":"Hưng Yên",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vân Canh",
+    "ghnDistrictCode":"3709",
+    "province":"Bình Định",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vị Xuyên",
+    "ghnDistrictCode":"",
+    "province":"Hà Giang",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Vĩnh Châu",
+    "ghnDistrictCode":"5907",
+    "province":"Sóc Trăng",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Lộc",
+    "ghnDistrictCode":"2816",
+    "province":"Thanh Hóa",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Vĩnh Tường",
+    "ghnDistrictCode":"1604",
+    "province":"Vĩnh Phúc",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Vũ Thư",
+    "ghnDistrictCode":"2605",
+    "province":"Thái Bình",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Xuân Lộc",
+    "ghnDistrictCode":"4807",
+    "province":"Đồng Nai",
+    "type":3,
+    "ghnSupportType":3
+  },
+  {
+    "name":"Yên Bình",
+    "ghnDistrictCode":"",
+    "province":"Yên Bái",
+    "type":3,
+    "ghnSupportType":null
+  },
+  {
+    "name":"Yên Lạc",
+    "ghnDistrictCode":"1605",
+    "province":"Vĩnh Phúc",
+    "type":2,
+    "ghnSupportType":2
+  },
+  {
+    "name":"Yên Phong",
+    "ghnDistrictCode":"1902",
+    "province":"Bắc Ninh",
+    "type":2,
+    "ghnSupportType":3
+  }
+]

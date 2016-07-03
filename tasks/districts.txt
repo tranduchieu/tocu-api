@@ -1,0 +1,717 @@
+ id  |         name          | ghn_district_code |     province      | type | ghn_support_type 
+-----+-----------------------+-------------------+-------------------+------+------------------
+   1 | A Lưới                | 3309              | Thừa Thiên - Huế  |    3 |                3
+   2 | An Biên               | 5409              | Kiên Giang        |    3 |                3
+   3 | An Dương              | 0310              | Hải Phòng         |    2 |                3
+   4 | An Khê                | 3805              | Gia Lai           |    3 |                3
+   5 | An Lão                | 0307              | Hải Phòng         |    3 |                3
+   6 | An Lão                |                   | Bình Định         |    3 |                 
+   7 | An Minh               | 5410              | Kiên Giang        |    3 |                3
+   8 | An Nhơn               | 3710              | Bình Định         |    3 |                3
+   9 | An Phú                | 5103              | An Giang          |    3 |                3
+  10 | Anh Sơn               | 2913              | Nghệ An           |    3 |                3
+  11 | Ayun Pa               | 3810              | Gia Lai           |    3 |                3
+  12 | Ân Thi                | 2203              | Hưng Yên          |    3 |                3
+  13 | Ba Bể                 | 1106              | Bắc Kạn           |    3 |                3
+  14 | Ba Chẽ                | 1709              | Quảng Ninh        |    3 |                3
+  15 | Ba Đình               | 1A01              | Hà Nội            |    1 |                3
+  16 | Ba Đồn                | 3108              | Quảng Bình        |    3 |                3
+  17 | Ba Tơ                 | 3512              | Quảng Ngãi        |    3 |                3
+  18 | Ba Tri                | 5607              | Bến Tre           |    3 |                3
+  19 | Ba Vì                 | 1B17              | Hà Nội            |    3 |                3
+  20 | Bà Rịa                | 5202              | Bà Rịa - Vũng Tàu |    1 |                3
+  21 | Bá Thước              |                   | Thanh Hóa         |    3 |                 
+  22 | Bác Ái                | 4505              | Ninh Thuận        |    3 |                3
+  23 | Bạc Liêu              | 6001              | Bạc Liêu          |    1 |                3
+  24 | Bạch Long Vĩ          |                   | Hải Phòng         |    3 |                 
+  25 | Bạch Thông            | 1103              | Bắc Kạn           |    3 |                3
+  26 | Bảo Lạc               | 0602              | Cao Bằng          |    3 |                3
+  27 | Bảo Lâm               | 0612              | Cao Bằng          |    3 |                3
+  28 | Bảo Lâm               | 4211              | Lâm Đồng          |    3 |                3
+  29 | Bảo Lộc               | 4202              | Lâm Đồng          |    3 |                3
+  30 | Bảo Thắng             |                   | Lào Cai           |    3 |                 
+  31 | Bảo Yên               | 0807              | Lào Cai           |    3 |                3
+  32 | Bát Xát               | 0803              | Lào Cai           |    2 |                2
+  33 | Bàu Bàng              | 4408              | Bình Dương        |    3 |                3
+  34 | Bắc Bình              | 4703              | Bình Thuận        |    3 |                3
+  35 | Bắc Giang             | 1801              | Bắc Giang         |    1 |                3
+  36 | Bắc Hà                | 0808              | Lào Cai           |    3 |                3
+  37 | Bắc Kạn               | 1101              | Bắc Kạn           |    1 |                3
+  38 | Bắc Mê                |                   | Hà Giang          |    3 |                 
+  39 | Bắc Ninh              | 1901              | Bắc Ninh          |    1 |                3
+  40 | Bắc Quang             | 0510              | Hà Giang          |    3 |                3
+  41 | Bắc Sơn               | 1005              | Lạng Sơn          |    3 |                3
+  42 | Bắc Tân Uyên          | 4409              | Bình Dương        |    3 |                3
+  43 | Bắc Trà My            |                   | Quảng Nam         |    3 |                 
+  44 | Bắc Từ Liêm           | 0110              | Hà Nội            |    2 |                3
+  45 | Bắc Yên               |                   | Sơn La            |    3 |                 
+  46 | Bến Cát               | 4402              | Bình Dương        |    3 |                3
+  47 | Bến Cầu               | 4607              | Tây Ninh          |    3 |                3
+  48 | Bến Lức               | 4908              | Long An           |    2 |                3
+  49 | Bến Tre               | 5601              | Bến Tre           |    1 |                3
+  50 | Biên Hòa              | 4801              | Đồng Nai          |    1 |                3
+  51 | Bỉm Sơn               | 2802              | Thanh Hóa         |    3 |                3
+  52 | Bình Chánh            | 0220              | TP Hồ Chí Minh    |    3 |                3
+  53 | Bình Gia              | 1003              | Lạng Sơn          |    3 |                3
+  54 | Bình Đại              | 5606              | Bến Tre           |    3 |                3
+  55 | Bình Giang            | 2112              | Hải Dương         |    2 |                3
+  56 | Bình Liêu             | 1705              | Quảng Ninh        |    3 |                3
+  57 | Bình Long             | 4304              | Bình Phước        |    3 |                3
+  58 | Bình Lục              | 2406              | Hà Nam            |    2 |                3
+  59 | Bình Minh             | 5704              | Vĩnh Long         |    3 |                3
+  60 | Bình Sơn              | 3503              | Quảng Ngãi        |    3 |                3
+  61 | Bình Tân              | 0219              | TP Hồ Chí Minh    |    2 |                3
+  62 | Bình Tân              | 5708              | Vĩnh Long         |    3 |                3
+  63 | Bình Thủy             | 5502              | Cần Thơ           |    1 |                3
+  64 | Bình Thạnh            | 0216              | TP Hồ Chí Minh    |    1 |                3
+  65 | Bình Xuyên            | 1606              | Vĩnh Phúc         |    2 |                2
+  66 | Bố Trạch              | 3105              | Quảng Bình        |    2 |                3
+  67 | Bù Đăng               | 4308              | Bình Phước        |    3 |                3
+  68 | Bù Đốp                | 4306              | Bình Phước        |    3 |                3
+  69 | Bù Gia Mập            | 4310              | Bình Phước        |    3 |                3
+  70 | Buôn Đôn              | 4013              | Đắk Lắk           |    3 |                3
+  71 | Buôn Hồ               | 4015              | Đắk Lắk           |    3 |                3
+  72 | Buôn Ma Thuột         | 4001              | Đắk Lắk           |    1 |                3
+  73 | Cà Mau                | 6101              | Cà Mau            |    1 |                3
+  74 | Cai Lậy               |                   | Tiền Giang        |    3 |                 
+  75 | Thị xã Cai Lậy        | 5311              | Tiền Giang        |    3 |                3
+  76 | Cái Bè                | 5303              | Tiền Giang        |    3 |                3
+  77 | Cái Nước              | 6105              | Cà Mau            |    3 |                3
+  78 | Cái Răng              | 5503              | Cần Thơ           |    1 |                3
+  79 | Cam Lâm               | 4109              | Khánh Hòa         |    3 |                3
+  80 | Cam Lộ                | 3205              | Quảng Trị         |    2 |                3
+  81 | Cam Ranh              | 4106              | Khánh Hòa         |    1 |                3
+  82 | Can Lộc               | 3006              | Hà Tĩnh           |    2 |                3
+  83 | Càng Long             |                   | Trà Vinh          |    3 |                 
+  84 | Cao Bằng              | 0601              | Cao Bằng          |    1 |                3
+  85 | Cao Lãnh              | 5001              | Đồng Tháp         |    1 |                3
+  86 | Cao Lãnh              | 5001              | Đồng Tháp         |    1 |                3
+  87 | Cao Lộc               | 1007              | Lạng Sơn          |    2 |                3
+  88 | Cao Phong             |                   | Hòa Bình          |    3 |                 
+  89 | Cát Hải               |                   | Hải Phòng         |    3 |                 
+  90 | Cát Tiên              | 4209              | Lâm Đồng          |    3 |                3
+  91 | Cẩm Giàng             | 2109              | Hải Dương         |    2 |                3
+  92 | Cẩm Khê               | 1506              | Phú Thọ           |    3 |                3
+  93 | Cẩm Lệ                | 0407              | Đà Nẵng           |    1 |                3
+  94 | Cẩm Mỹ                | 4811              | Đồng Nai          |    3 |                3
+  95 | Cẩm Phả               | 1702              | Quảng Ninh        |    1 |                3
+  96 | Cần Giuộc             | 4913              | Long An           |    3 |                3
+  97 | Châu Đức              | 5207              | Bà Rịa - Vũng Tàu |    2 |                3
+  98 | Châu Thành            |                   | Hậu Giang         |    3 |                 
+  99 | Châu Thành            | 5305              | Tiền Giang        |    2 |                2
+ 100 | Chiêm Hóa             | 0904              | Tuyên Quang       |    3 |                3
+ 101 | Chợ Mới               | 5109              | An Giang          |    3 |                3
+ 102 | Chư Sê                | 3809              | Gia Lai           |    3 |                3
+ 103 | Cồn Cỏ                |                   | Quảng Trị         |    3 |                 
+ 104 | Cư Jút                | 6304              | Đắk Nông          |    3 |                3
+ 105 | Dĩ An                 | 4405              | Bình Dương        |    1 |                3
+ 106 | Duyên Hải             | 5809              | Trà Vinh          |    3 |                3
+ 107 | Đà Bắc                | 2302              | Hòa Bình          |    2 |                3
+ 108 | Đại Lộc               | 3405              | Quảng Nam         |    3 |                3
+ 109 | Đắk Glei              | 3602              | Kon Tum           |    3 |                3
+ 110 | Đăk Song              |                   | Đắk Nông          |    3 |                 
+ 111 | Đất Đỏ                | 5208              | Bà Rịa - Vũng Tàu |    2 |                3
+ 112 | Đình Lập              | 1010              | Lạng Sơn          |    3 |                3
+ 113 | Đồ Sơn                | 0306              | Hải Phòng         |    3 |                3
+ 114 | Đông Hòa              | 3907              | Phú Yên           |    3 |                3
+ 116 | Đống Đa               | 1A04              | Hà Nội            |    1 |                3
+ 115 | Đồng Hỷ               | 1207              | Thái Nguyên       |    2 |                2
+ 120 | Gio Linh              | 3204              | Quảng Trị         |    2 |                3
+ 125 | Hàm Tân               |                   | Bình Thuận        |    3 |                 
+ 130 | Hòn Đất               | 5404              | Kiên Giang        |    3 |                3
+ 135 | Khoái Châu            | 2204              | Hưng Yên          |    3 |                3
+ 140 | Kỳ Anh                | 3010              | Hà Tĩnh           |    3 |                3
+ 145 | Long Hồ               | 5702              | Vĩnh Long         |    2 |                3
+ 149 | Minh Hóa              | 3103              | Quảng Bình        |    3 |                3
+ 155 | Nam Đàn               | 2917              | Nghệ An           |    2 |                3
+ 160 | Nguyên Bình           | 0607              | Cao Bằng          |    3 |                3
+ 165 | Phú Bình              | 1208              | Thái Nguyên       |    3 |                3
+ 170 | Phước Long            | 4307              | Bình Phước        |    3 |                3
+ 175 | Quận 10               | 0210              | TP Hồ Chí Minh    |    1 |                3
+ 180 | Sông Lô               | 1607              | Vĩnh Phúc         |    3 |                3
+ 185 | Tân Hiệp              | 5405              | Kiên Giang        |    3 |                3
+ 190 | Cầu Giấy              | 1A06              | Hà Nội            |    1 |                3
+ 195 | Chơn Thành            | 4303              | Bình Phước        |    3 |                3
+ 200 | Duyên Hải             | 5809              | Trà Vinh          |    3 |                3
+ 205 | Định Hóa              | 1203              | Thái Nguyên       |    3 |                3
+ 210 | Đức Phổ               | 3511              | Quảng Ngãi        |    3 |                3
+ 215 | Hà Quảng              | 0604              | Cao Bằng          |    3 |                3
+ 220 | Hòa Thành             | 4606              | Tây Ninh          |    2 |                2
+ 225 | Hưng Yên              | 2201              | Hưng Yên          |    1 |                3
+ 230 | Kim Thành             | 2111              | Hải Dương         |    3 |                3
+ 237 | Lạng Sơn              | 1001              | Lạng Sơn          |    1 |                3
+ 240 | Lục Yên               | 1309              | Yên Bái           |    3 |                3
+ 245 | Mường Lát             | 2806              | Thanh Hóa         |    3 |                3
+ 250 | Ngã Năm               | 5909              | Sóc Trăng         |    3 |                3
+ 255 | Ninh Phước            | 4504              | Ninh Thuận        |    2 |                3
+ 260 | Phú Tân               | 6109              | Cà Mau            |    3 |                3
+ 265 | Quảng Ngãi            | 3501              | Quảng Ngãi        |    1 |                3
+ 270 | Quỳ Hợp               | 2904              | Nghệ An           |    3 |                3
+ 275 | Sơn Tây               | 3513              | Quảng Ngãi        |    3 |                3
+ 279 | Tân Phước             | 5309              | Tiền Giang        |    2 |                3
+ 285 | Châu Thành            | 4910              | Long An           |    2 |                3
+ 290 | Cù Lao Dung           |                   | Sóc Trăng         |    3 |                 
+ 295 | Đắk Đoa               |                   | Gia Lai           |    3 |                 
+ 300 | Đông Giang            |                   | Quảng Nam         |    3 |                 
+ 305 | Gia Bình              | 1907              | Bắc Ninh          |    3 |                3
+ 312 | Hạ Long               | 1701              | Quảng Ninh        |    1 |                3
+ 315 | Hoàng Mai             | 1A08              | Hà Nội            |    1 |                3
+ 320 | Ia Grai               | 3812              | Gia Lai           |    2 |                3
+ 325 | Krông Bông            | 4011              | Đắk Lắk           |    3 |                3
+ 330 | Lệ Thủy               | 3107              | Quảng Bình        |    3 |                3
+ 335 | Mang Yang             |                   | Gia Lai           |    3 |                 
+ 340 | Mỹ Tú                 | 5903              | Sóc Trăng         |    3 |                3
+ 345 | Nghĩa Lộ              | 1302              | Yên Bái           |    3 |                3
+ 350 | Phan Rang - Tháp Chàm | 4501              | Ninh Thuận        |    1 |                3
+ 358 | Quảng Điền            | 3303              | Thừa Thiên - Huế  |    2 |                3
+ 363 | Quỳ Châu              | 2903              | Nghệ An           |    3 |                3
+ 368 | Sơn Tây               | 1B16              | Hà Nội            |    3 |                3
+ 373 | Tân Phú Đông          |                   | Tiền Giang        |    3 |                 
+ 378 | Châu Thành            | 5602              | Bến Tre           |    2 |                2
+ 383 | Côn Đảo               |                   | Bà Rịa - Vũng Tàu |    3 |                 
+ 388 | Đạ Tẻh                | 4208              | Lâm Đồng          |    3 |                3
+ 393 | Đô Lương              | 2914              | Nghệ An           |    3 |                3
+ 398 | Ea H'leo              | 4002              | Đắk Lắk           |    3 |                3
+ 403 | Hà Trung              | 2821              | Thanh Hóa         |    2 |                3
+ 408 | Hoàn Kiếm             | 1A02              | Hà Nội            |    1 |                3
+ 413 | Hữu Lũng              | 1011              | Lạng Sơn          |    3 |                3
+ 418 | Krông Ana             | 4010              | Đắk Lắk           |    3 |                3
+ 421 | Lấp Vò                | 5008              | Đồng Tháp         |    3 |                3
+ 428 | Mai Sơn               | 1407              | Sơn La            |    3 |                3
+ 433 | Mỹ Lộc                | 2502              | Nam Định          |    2 |                3
+ 438 | Nghĩa Hưng            | 2509              | Nam Định          |    2 |                3
+ 443 | Pác Nặm               | 1108              | Bắc Kạn           |    3 |                3
+ 448 | Phù Cừ                |                   | Hưng Yên          |    3 |                 
+ 453 | Quận 1                | 0201              | TP Hồ Chí Minh    |    1 |                3
+ 458 | Sa Thầy               |                   | Kon Tum           |    3 |                 
+ 463 | Tam Đường             | 0702              | Lai Châu          |    3 |                3
+ 468 | Tân Uyên              | 0707              | Lai Châu          |    3 |                3
+ 473 | Châu Thành            | 4605              | Tây Ninh          |    2 |                2
+ 478 | Củ Chi                | 0221              | TP Hồ Chí Minh    |    3 |                3
+ 483 | Đắk Pơ                |                   | Gia Lai           |    3 |                 
+ 488 | Đông Hà               | 3201              | Quảng Trị         |    1 |                3
+ 493 | Gia Lâm               | 1A12              | Hà Nội            |    3 |                3
+ 498 | Hai Bà Trưng          | 1A03              | Hà Nội            |    1 |                3
+ 503 | Hoàng Mai             | 2921              | Nghệ An           |    3 |                3
+ 508 | Ia H'Drai             |                   | Kon Tum           |    3 |                 
+ 513 | Krông Búk             |                   | Đắk Lắk           |    3 |                 
+ 517 | Lập Thạch             | 1603              | Vĩnh Phúc         |    3 |                3
+ 523 | M'Đrăk                | 4009              | Đắk Lắk           |    3 |                3
+ 528 | Mỹ Xuyên              | 5904              | Sóc Trăng         |    2 |                2
+ 533 | Ngọc Hồi              |                   | Kon Tum           |    3 |                 
+ 538 | Phong Thổ             | 0703              | Lai Châu          |    3 |                3
+ 543 | Phúc Yên              | 1608              | Vĩnh Phúc         |    2 |                3
+ 548 | Quận 7                | 0207              | TP Hồ Chí Minh    |    1 |                3
+ 553 | Sông Cầu              | 3903              | Phú Yên           |    3 |                3
+ 558 | Tân Biên              | 4602              | Tây Ninh          |    3 |                3
+ 563 | Tây Trà               |                   | Quảng Ngãi        |    3 |                 
+ 568 | Thanh Miện            | 2107              | Hải Dương         |    2 |                3
+ 573 | Thủy Nguyên           | 0309              | Hải Phòng         |    2 |                2
+ 578 | Triệu Phong           | 3206              | Quảng Trị         |    2 |                3
+ 583 | Văn Chấn              | 1306              | Yên Bái           |    3 |                3
+ 588 | Vĩnh Thuận            |                   | Kiên Giang        |    3 |                 
+ 593 | Yên Thế               | 1802              | Bắc Giang         |    3 |                3
+ 598 | Thanh Sơn             | 1508              | Phú Thọ           |    3 |                3
+ 603 | Thuận Thành           | 1906              | Bắc Ninh          |    2 |                3
+ 608 | Tri Tôn               | 5107              | An Giang          |    3 |                3
+ 613 | Văn Bàn               | 0806              | Lào Cai           |    3 |                3
+ 618 | Vĩnh Thạnh            | 5507              | Cần Thơ           |    3 |                3
+ 623 | Yên Mỹ                | 2205              | Hưng Yên          |    3 |                3
+ 628 | Thanh Liêm            | 2405              | Hà Nam            |    2 |                3
+ 633 | Thuận Châu            | 1404              | Sơn La            |    3 |                3
+ 637 | Trần Đề               | 5911              | Sóc Trăng         |    2 |                3
+ 643 | Ứng Hòa               | 1B26              | Hà Nội            |    3 |                3
+ 648 | Vĩnh Lợi              | 6002              | Bạc Liêu          |    2 |                3
+ 653 | Yên Lập               |                   | Phú Thọ           |    3 |                 
+ 658 | Thanh Oai             | 1B24              | Hà Nội            |    3 |                3
+ 663 | Thuận Nam             | 4507              | Ninh Thuận        |    2 |                3
+ 668 | Trần Văn Thời         | 6104              | Cà Mau            |    3 |                3
+ 673 | Vạn Ninh              | 4102              | Khánh Hòa         |    3 |                3
+ 678 | Vĩnh Thạnh            |                   | Bình Định         |    3 |                 
+ 683 | Yên Minh              | 0504              | Hà Giang          |    3 |                3
+ 688 | Thanh Thủy            |                   | Phú Thọ           |    3 |                 
+ 117 | Đức Linh              | 4707              | Bình Thuận        |    3 |                3
+ 122 | Hà Giang              | 0501              | Hà Giang          |    1 |                3
+ 127 | Hòa Bình              | 2301              | Hòa Bình          |    1 |                3
+ 132 | Hưng Nguyên           | 2918              | Nghệ An           |    2 |                3
+ 137 | Kim Sơn               | 2707              | Ninh Bình         |    2 |                3
+ 142 | Lang Chánh            | 2811              | Thanh Hóa         |    3 |                3
+ 147 | Lộc Ninh              | 4305              | Bình Phước        |    3 |                3
+ 151 | Mường Chà             | 6205              | Điện Biên         |    3 |                3
+ 157 | Nậm Nhùn              |                   | Lai Châu          |    3 |                 
+ 161 | Ninh Hòa              | 4103              | Khánh Hòa         |    3 |                3
+ 167 | Phú Tân               | 5105              | An Giang          |    3 |                3
+ 172 | Quảng Ninh            | 3106              | Quảng Bình        |    2 |                3
+ 177 | Quỳnh Lưu             | 2906              | Nghệ An           |    3 |                3
+ 182 | Sơn Tịnh              | 3505              | Quảng Ngãi        |    2 |                2
+ 187 | Tân Thành             | 5206              | Bà Rịa - Vũng Tàu |    2 |                3
+ 192 | Châu Thành            | 5406              | Kiên Giang        |    2 |                2
+ 197 | Cờ Đỏ                 | 5506              | Cần Thơ           |    3 |                3
+ 202 | Đắk Glong             | 6307              | Đắk Nông          |    3 |                3
+ 207 | Đông Hưng             | 2604              | Thái Bình         |    2 |                2
+ 212 | Gia Viễn              | 2704              | Ninh Bình         |    2 |                3
+ 217 | Hải Dương             | 2101              | Hải Dương         |    1 |                3
+ 222 | Hoàng Su Phì          | 0508              | Hà Giang          |    3 |                3
+ 227 | KBang                 |                   | Gia Lai           |    3 |                 
+ 232 | Krông Nô              |                   | Đắk Nông          |    3 |                 
+ 236 | Liên Chiểu            | 0405              | Đà Nẵng           |    1 |                3
+ 242 | Mèo Vạc               | 0503              | Hà Giang          |    3 |                3
+ 247 | Na Hang               | 0903              | Tuyên Quang       |    3 |                3
+ 252 | Ngọc Lặc              | 2812              | Thanh Hóa         |    3 |                3
+ 257 | Phong Điền            |                   | Thừa Thiên - Huế  |    3 |                 
+ 262 | Phù Yên               | 1406              | Sơn La            |    3 |                3
+ 267 | Quận 4                | 0204              | TP Hồ Chí Minh    |    1 |                3
+ 272 | Sìn Hồ                | 0704              | Lai Châu          |    3 |                3
+ 277 | Tam Nông              | 1511              | Phú Thọ           |    2 |                3
+ 282 | Cẩm Xuyên             | 3009              | Hà Tĩnh           |    2 |                3
+ 287 | Chợ Gạo               | 5306              | Tiền Giang        |    2 |                2
+ 292 | Diễn Châu             | 2912              | Nghệ An           |    3 |                3
+ 297 | Đầm Dơi               | 6106              | Cà Mau            |    3 |                3
+ 302 | Đồng Văn              | 0502              | Hà Giang          |    3 |                3
+ 307 | Giồng Trôm            | 5605              | Bến Tre           |    2 |                3
+ 311 | Hàm Thuận Nam         | 4705              | Bình Thuận        |    3 |                3
+ 317 | Hồng Bàng             | 0301              | Hải Phòng         |    1 |                3
+ 322 | Kiến An               | 0304              | Hải Phòng         |    2 |                3
+ 327 | La Gi                 | 4710              | Bình Thuận        |    3 |                3
+ 332 | Long Xuyên            | 5101              | An Giang          |    1 |                3
+ 337 | Mộc Châu              | 1410              | Sơn La            |    3 |                3
+ 342 | Nam Trực              | 2507              | Nam Định          |    2 |                3
+ 347 | Nhơn Trạch            | 4809              | Đồng Nai          |    3 |                3
+ 352 | Phú Lương             |                   | Thái Nguyên       |    3 |                 
+ 355 | Phù Ninh              | 1509              | Phú Thọ           |    3 |                3
+ 360 | Quận 3                | 0203              | TP Hồ Chí Minh    |    1 |                3
+ 365 | Si Ma Cai             |                   | Lào Cai           |    3 |                 
+ 370 | Tam Nông              | 5005              | Đồng Tháp         |    3 |                3
+ 375 | Tây Hòa               | 3909              | Phú Yên           |    3 |                3
+ 380 | Chi Lăng              | 1009              | Lạng Sơn          |    3 |                3
+ 385 | Di Linh               | 4204              | Lâm Đồng          |    3 |                3
+ 390 | Đắk R'lấp             | 6302              | Đắk Nông          |    3 |                3
+ 395 | Đồng Hới              | 3101              | Quảng Bình        |    1 |                3
+ 400 | Giao Thủy             | 2504              | Nam Định          |    3 |                3
+ 405 | Hải Lăng              |                   | Quảng Trị         |    3 |                 
+ 410 | Hội An                | 3402              | Quảng Nam         |    1 |                3
+ 415 | Kiên Lương            | 5403              | Kiên Giang        |    3 |                3
+ 423 | Kỳ Sơn                | 2907              | Nghệ An           |    3 |                3
+ 425 | Long Mỹ               |                   | Hậu Giang         |    3 |                 
+ 430 | Móng Cái              | 1704              | Quảng Ninh        |    3 |                3
+ 435 | Nam Sách              | 2103              | Hải Dương         |    2 |                2
+ 440 | Nho Quan              | 2703              | Ninh Bình         |    3 |                3
+ 445 | Phú Hòa               | 3908              | Phú Yên           |    2 |                3
+ 450 | Phước Long            | 6005              | Bạc Liêu          |    3 |                3
+ 456 | Quận 11               | 0211              | TP Hồ Chí Minh    |    1 |                3
+ 460 | Sông Mã               | 1409              | Sơn La            |    3 |                3
+ 465 | Tân Châu              |                   | Tây Ninh          |    3 |                 
+ 470 | Cần Giờ               |                   | TP Hồ Chí Minh    |    3 |                 
+ 475 | Chợ Lách              | 5603              | Bến Tre           |    3 |                3
+ 480 | Duy Tiên              | 2402              | Hà Nam            |    2 |                3
+ 485 | Đầm Hà                | 1706              | Quảng Ninh        |    3 |                3
+ 490 | Đồng Xoài             | 4301              | Bình Phước        |    1 |                3
+ 495 | Gò Công               | 5302              | Tiền Giang        |    3 |                3
+ 500 | Hàm Yên               | 0905              | Tuyên Quang       |    3 |                3
+ 505 | Hồng Dân              | 6003              | Bạc Liêu          |    3 |                3
+ 510 | Kiến Thụy             | 0308              | Hải Phòng         |    2 |                3
+ 514 | Lạc Dương             | 4206              | Lâm Đồng          |    2 |                3
+ 520 | Long Phú              |                   | Sóc Trăng         |    3 |                 
+ 525 | Mộc Hóa               | 4903              | Long An           |    3 |                3
+ 530 | Nam Từ Liêm           | 0130              | Hà Nội            |    2 |                3
+ 534 | Như Xuân              | 2809              | Thanh Hóa         |    3 |                3
+ 540 | Phú Quốc              |                   | Kiên Giang        |    3 |                 
+ 545 | Quang Bình            | 0511              | Hà Giang          |    3 |                3
+ 550 | Quốc Oai              | 1B20              | Hà Nội            |    3 |                3
+ 555 | Sơn La                | 1401              | Sơn La            |    1 |                3
+ 560 | Tân Phú               | 0215              | TP Hồ Chí Minh    |    1 |                3
+ 565 | Thạch Hà              | 3008              | Hà Tĩnh           |    2 |                3
+ 570 | Thăng Bình            |                   | Quảng Nam         |    3 |                 
+ 575 | Tĩnh Gia              | 2826              | Thanh Hóa         |    3 |                3
+ 580 | Tuy Hòa               | 3901              | Phú Yên           |    1 |                3
+ 585 | Vị Thủy               | 6402              | Hậu Giang         |    2 |                3
+ 590 | Ý Yên                 | 2505              | Nam Định          |    3 |                3
+ 594 | Thạch Thất            | 1B19              | Hà Nội            |    3 |                3
+ 600 | Thọ Xuân              | 2815              | Thanh Hóa         |    3 |                3
+ 605 | Tiểu Cần              | 5804              | Trà Vinh          |    3 |                3
+ 610 | Tuy Đức               |                   | Đắk Nông          |    3 |                 
+ 615 | Vị Thanh              | 6401              | Hậu Giang         |    1 |                3
+ 620 | Xín Mần               | 0509              | Hà Giang          |    3 |                3
+ 625 | Thạch An              | 0610              | Cao Bằng          |    3 |                3
+ 630 | Tháp Mười             | 5009              | Đồng Tháp         |    3 |                3
+ 635 | Tiên Phước            |                   | Quảng Nam         |    3 |                 
+ 640 | Tu Mơ Rông            |                   | Kon Tum           |    3 |                 
+ 645 | Vân Đồn               | 1713              | Quảng Ninh        |    3 |                3
+ 650 | Vụ Bản                | 2506              | Nam Định          |    2 |                3
+ 655 | Thạch Thành           | 2813              | Thanh Hóa         |    3 |                3
+ 660 | Thiệu Hóa             | 2817              | Thanh Hóa         |    2 |                3
+ 664 | Tiên Yên              | 1708              | Quảng Ninh        |    3 |                3
+ 670 | Tuy An                | 3904              | Phú Yên           |    3 |                3
+ 675 | Vân Hồ                |                   | Sơn La            |    3 |                 
+ 680 | Vũng Liêm             |                   | Vĩnh Long         |    3 |                 
+ 685 | Thái Bình             | 2601              | Thái Bình         |    1 |                3
+ 119 | Gia Nghĩa             | 6301              | Đắk Nông          |    1 |                3
+ 124 | Hải Châu              | 0401              | Đà Nẵng           |    1 |                3
+ 129 | Hoàng Sa              |                   | Đà Nẵng           |    3 |                 
+ 134 | Ia Pa                 | 3814              | Gia Lai           |    3 |                3
+ 139 | Krông Năng            | 4004              | Đắk Lắk           |    3 |                3
+ 144 | Lê Chân               | 0302              | Hải Phòng         |    1 |                3
+ 148 | Mang Thít             |                   | Vĩnh Long         |    3 |                 
+ 154 | Mỹ Tho                | 5301              | Tiền Giang        |    1 |                3
+ 159 | Ngọc Hiển             |                   | Cà Mau            |    3 |                 
+ 164 | Phan Thiết            | 4701              | Bình Thuận        |    1 |                3
+ 169 | Phủ Lý                | 2401              | Hà Nam            |    1 |                3
+ 173 | Quận 5                | 0205              | TP Hồ Chí Minh    |    1 |                3
+ 179 | Sóc Sơn               | 1A14              | Hà Nội            |    3 |                3
+ 184 | Tánh Linh             |                   | Bình Thuận        |    3 |                 
+ 189 | Cẩm Thủy              | 2814              | Thanh Hóa         |    3 |                3
+ 194 | Chợ Đồn               | 1102              | Bắc Kạn           |    3 |                3
+ 199 | Diên Khánh            | 4104              | Khánh Hòa         |    2 |                2
+ 204 | Điện Bàn              | 3404              | Quảng Nam         |    2 |                2
+ 209 | Đơn Dương             | 4205              | Lâm Đồng          |    3 |                3
+ 214 | Gò Dầu                | 4608              | Tây Ninh          |    3 |                3
+ 219 | Hiệp Hòa              | 1807              | Bắc Giang         |    3 |                3
+ 224 | Hồng Ngự              | 5004              | Đồng Tháp         |    3 |                3
+ 229 | Kiến Tường            | 4915              | Long An           |    3 |                3
+ 234 | Lạc Thủy              |                   | Hòa Bình          |    3 |                 
+ 239 | Lộc Bình              | 1008              | Lạng Sơn          |    2 |                3
+ 243 | Mù Cang Chải          | 1305              | Yên Bái           |    3 |                3
+ 249 | Năm Căn               | 6108              | Cà Mau            |    3 |                3
+ 254 | Ninh Bình             | 2701              | Ninh Bình         |    1 |                3
+ 259 | Phú Ninh              | 3417              | Quảng Nam         |    2 |                3
+ 264 | Quan Hóa              | 2804              | Thanh Hóa         |    3 |                3
+ 269 | Quế Sơn               | 3406              | Quảng Nam         |    3 |                3
+ 274 | Sơn Dương             | 0907              | Tuyên Quang       |    3 |                3
+ 280 | Tân Kỳ                | 2910              | Nghệ An           |    3 |                3
+ 284 | Châu Thành            | 5110              | An Giang          |    2 |                2
+ 289 | Con Cuông             | 2909              | Nghệ An           |    3 |                3
+ 294 | Đà Lạt                | 4201              | Lâm Đồng          |    1 |                3
+ 299 | Định Quán             | 4804              | Đồng Nai          |    3 |                3
+ 304 | Đức Thọ               | 3004              | Hà Tĩnh           |    3 |                3
+ 310 | Hà Tiên               | 5402              | Kiên Giang        |    3 |                3
+ 314 | Hòa Vang              | 0406              | Đà Nẵng           |    3 |                3
+ 319 | Hương Sơn             | 3003              | Hà Tĩnh           |    3 |                3
+ 324 | Kon Plông             | 3606              | Kon Tum           |    3 |                3
+ 329 | Lâm Hà                | 4210              | Lâm Đồng          |    3 |                3
+ 334 | Lý Nhân               | 2404              | Hà Nam            |    2 |                3
+ 339 | Mường Tè              |                   | Lai Châu          |    3 |                 
+ 344 | Nghi Xuân             | 3005              | Hà Tĩnh           |    3 |                3
+ 349 | Nông Cống             |                   | Thanh Hóa         |    3 |                 
+ 357 | Pleiku                | 3801              | Gia Lai           |    1 |                3
+ 362 | Quế Phong             | 2919              | Nghệ An           |    3 |                3
+ 367 | Sơn Động              | 1804              | Bắc Giang         |    3 |                3
+ 372 | Tân Hưng              | 4914              | Long An           |    3 |                3
+ 377 | Cầu Ngang             | 5807              | Trà Vinh          |    3 |                3
+ 382 | Chư Pưh               |                   | Gia Lai           |    3 |                 
+ 387 | Đa Krông              |                   | Quảng Trị         |    3 |                 
+ 392 | Điện Biên Phủ         | 6201              | Điện Biên         |    1 |                3
+ 397 | Đức Huệ               | 4906              | Long An           |    3 |                3
+ 402 | Hà Đông               | 1B15              | Hà Nội            |    2 |                3
+ 407 | Hòa Bình              | 6007              | Bạc Liêu          |    2 |                2
+ 412 | Hương Khê             | 3007              | Hà Tĩnh           |    3 |                3
+ 417 | Kinh Môn              | 2104              | Hải Dương         |    3 |                3
+ 420 | Lào Cai               | 0801              | Lào Cai           |    1 |                3
+ 427 | Lương Sơn             | 2307              | Hòa Bình          |    3 |                3
+ 432 | Mường Lay             | 6202              | Điện Biên         |    3 |                3
+ 437 | Ngân Sơn              | 1105              | Bắc Kạn           |    3 |                3
+ 442 | Ninh Sơn              | 4502              | Ninh Thuận        |    3 |                3
+ 447 | Phú Thiện             | 3816              | Gia Lai           |    3 |                3
+ 452 | Quảng Trạch           | 3104              | Quảng Bình        |    3 |                3
+ 457 | Quỳnh Nhai            |                   | Sơn La            |    3 |                 
+ 462 | Sơn Trà               | 0403              | Đà Nẵng           |    1 |                3
+ 467 | Tân Sơn               |                   | Phú Thọ           |    3 |                 
+ 472 | Châu Thành            | 5011              | Đồng Tháp         |    3 |                3
+ 477 | Cô Tô                 |                   | Quảng Ninh        |    3 |                 
+ 482 | Đạ Huoai              |                   | Lâm Đồng          |    3 |                 
+ 487 | Đoan Hùng             | 1503              | Phú Thọ           |    3 |                3
+ 492 | Đức Trọng             | 4203              | Lâm Đồng          |    3 |                3
+ 497 | Hà Tĩnh               | 3001              | Hà Tĩnh           |    1 |                3
+ 502 | Hoài Ân               |                   | Bình Định         |    3 |                 
+ 507 | Hương Thủy            | 3306              | Thừa Thiên - Huế  |    2 |                3
+ 512 | Kon Rẫy               |                   | Kon Tum           |    3 |                 
+ 518 | Lắk                   | 4012              | Đắk Lắk           |    3 |                3
+ 522 | Lý Sơn                |                   | Quảng Ngãi        |    3 |                 
+ 526 | Mỹ Đức                | 1B25              | Hà Nội            |    3 |                3
+ 532 | Nghĩa Đàn             | 2905              | Nghệ An           |    3 |                3
+ 537 | Núi Thành             | 3409              | Quảng Nam         |    3 |                3
+ 542 | Phù Mỹ                | 3705              | Bình Định         |    3 |                3
+ 547 | Quận 2                | 0202              | TP Hồ Chí Minh    |    1 |                3
+ 552 | Sầm Sơn               | 2803              | Thanh Hóa         |    2 |                2
+ 557 | Tam Kỳ                | 3401              | Quảng Nam         |    1 |                3
+ 562 | Tây Giang             |                   | Quảng Nam         |    3 |                 
+ 567 | Thanh Chương          | 2915              | Nghệ An           |    3 |                3
+ 572 | Thuận An              | 4404              | Bình Dương        |    2 |                3
+ 577 | Trảng Bom             | 4810              | Đồng Nai          |    3 |                3
+ 582 | U Minh Thượng         |                   | Kiên Giang        |    3 |                 
+ 587 | Vĩnh Long             | 5701              | Vĩnh Long         |    1 |                3
+ 592 | Yên Mô                | 2706              | Ninh Bình         |    2 |                3
+ 596 | Thanh Hóa             | 2801              | Thanh Hóa         |    1 |                3
+ 602 | Thủ Thừa              | 4909              | Long An           |    2 |                3
+ 607 | Trảng Bàng            | 4609              | Tây Ninh          |    3 |                3
+ 612 | U Minh                | 6103              | Cà Mau            |    3 |                3
+ 617 | Vĩnh Linh             | 3203              | Quảng Trị         |    3 |                3
+ 622 | Yên Khánh             | 2708              | Ninh Bình         |    2 |                2
+ 627 | Thanh Bình            | 5006              | Đồng Tháp         |    3 |                3
+ 632 | Thủ Dầu Một           | 4401              | Bình Dương        |    1 |                3
+ 636 | Trạm Tấu              |                   | Yên Bái           |    3 |                 
+ 642 | Từ Sơn                | 1905              | Bắc Ninh          |    2 |                2
+ 647 | Vĩnh Cửu              | 4802              | Đồng Nai          |    3 |                3
+ 652 | Yên Châu              |                   | Sơn La            |    3 |                 
+ 657 | Thanh Hà              | 2110              | Hải Dương         |    2 |                3
+ 662 | Thủ Đức               | 0218              | TP Hồ Chí Minh    |    2 |                3
+ 667 | Tràng Định            | 1002              | Lạng Sơn          |    3 |                3
+ 672 | Tương Dương           | 2908              | Nghệ An           |    3 |                3
+ 677 | Vĩnh Hưng             | 4902              | Long An           |    3 |                3
+ 682 | Yên Dũng              | 1810              | Bắc Giang         |    2 |                3
+ 687 | Thanh Khê             | 0402              | Đà Nẵng           |    1 |                3
+ 692 | Thuận Bắc             | 4506              | Ninh Thuận        |    2 |                3
+ 701 | Tứ Kỳ                 | 2106              | Hải Dương         |    2 |                3
+ 118 | Ea Kar                | 4008              | Đắk Lắk           |    3 |                3
+ 123 | Hạ Hòa                | 1505              | Phú Thọ           |    3 |                3
+ 128 | Hoài Đức              | 1B23              | Hà Nội            |    3 |                3
+ 133 | Hương Trà             | 3304              | Thừa Thiên - Huế  |    2 |                3
+ 138 | Kon Tum               | 3601              | Kon Tum           |    1 |                3
+ 143 | Lâm Bình              | 0902              | Tuyên Quang       |    3 |                3
+ 152 | Lương Tài             | 1908              | Bắc Ninh          |    3 |                3
+ 153 | Mường Nhé             | 6208              | Điện Biên         |    3 |                3
+ 158 | Nghi Lộc              | 2916              | Nghệ An           |    2 |                3
+ 163 | Nông Sơn              |                   | Quảng Nam         |    3 |                 
+ 168 | Phù Cát               | 3706              | Bình Định         |    3 |                3
+ 174 | Quảng Xương           | 2825              | Thanh Hóa         |    2 |                3
+ 178 | Sa Pa                 | 0805              | Lào Cai           |    3 |                3
+ 183 | Tam Điệp              | 2702              | Ninh Bình         |    2 |                2
+ 188 | Tân Yên               | 1806              | Bắc Giang         |    3 |                3
+ 193 | Châu Thành            | 5805              | Trà Vinh          |    2 |                3
+ 198 | Cư M'gar              | 4006              | Đắk Lắk           |    2 |                3
+ 203 | Đăk Tô                |                   | Kon Tum           |    3 |                 
+ 208 | Đồng Phú              | 4302              | Bình Phước        |    2 |                2
+ 213 | Giồng Riềng           | 5407              | Kiên Giang        |    3 |                3
+ 218 | Hàm Thuận Bắc         |                   | Bình Thuận        |    3 |                 
+ 223 | Hớn Quản              | 4309              | Bình Phước        |    3 |                3
+ 228 | Kiên Hải              |                   | Kiên Giang        |    3 |                 
+ 233 | Kỳ Sơn                | 2306              | Hòa Bình          |    2 |                3
+ 238 | Thị xã Long Mỹ        | 6408              | Hậu Giang         |    2 |                3
+ 244 | Mỏ Cày Nam            | 5609              | Bến Tre           |    2 |                3
+ 248 | Nam Giang             |                   | Quảng Nam         |    3 |                 
+ 253 | Nhà Bè                | 0223              | TP Hồ Chí Minh    |    3 |                3
+ 258 | Phú Giáo              | 4406              | Bình Dương        |    3 |                3
+ 263 | Phụng Hiệp            | 6404              | Hậu Giang         |    3 |                3
+ 268 | Quận 9                | 0209              | TP Hồ Chí Minh    |    2 |                3
+ 273 | Sông Hinh             |                   | Phú Yên           |    3 |                 
+ 278 | Tân Châu              | 5104              | An Giang          |    3 |                3
+ 283 | Cầu Kè                |                   | Trà Vinh          |    3 |                 
+ 288 | Chư Păh               | 3802              | Gia Lai           |    2 |                3
+ 293 | Dương Kinh            | 0315              | Hải Phòng         |    2 |                3
+ 298 | Điện Biên             | 6203              | Điện Biên         |    3 |                3
+ 303 | Đức Cơ                | 3807              | Gia Lai           |    3 |                3
+ 308 | Gò Quao               |                   | Kiên Giang        |    3 |                 
+ 313 | Hoa Lư                | 2705              | Ninh Bình         |    2 |                3
+ 318 | Huế                   | 3301              | Thừa Thiên - Huế  |    1 |                3
+ 323 | Kim Bôi               |                   | Hòa Bình          |    3 |                 
+ 328 | Lạng Giang            | 1808              | Bắc Giang         |    3 |                3
+ 333 | Lục Nam               | 1805              | Bắc Giang         |    2 |                3
+ 338 | Mường Khương          | 0809              | Lào Cai           |    3 |                3
+ 343 | Nga Sơn               | 2823              | Thanh Hóa         |    3 |                3
+ 348 | Ninh Hải              | 4503              | Ninh Thuận        |    2 |                3
+ 353 | Phú Riềng             |                   | Bình Phước        |    3 |                 
+ 354 | Phú Vang              | 3305              | Thừa Thiên - Huế  |    3 |                3
+ 359 | Quảng Yên             | 1711              | Quảng Ninh        |    3 |                3
+ 364 | Rạch Giá              | 5401              | Kiên Giang        |    1 |                3
+ 369 | Tam Dương             | 1602              | Vĩnh Phúc         |    2 |                3
+ 374 | Tân Trụ               | 4911              | Long An           |    2 |                3
+ 379 | Châu Thành            | 5910              | Sóc Trăng         |    2 |                3
+ 384 | Cư Kuin               | 4014              | Đắk Lắk           |    2 |                3
+ 389 | Đan Phượng            | 1B22              | Hà Nội            |    3 |                3
+ 394 | Đông Hải              | 6006              | Bạc Liêu          |    3 |                3
+ 399 | Gia Lộc               | 2105              | Hải Dương         |    2 |                3
+ 404 | Hải An                | 0305              | Hải Phòng         |    1 |                3
+ 409 | Hoành Bồ              | 1712              | Quảng Ninh        |    3 |                3
+ 414 | Kế Sách               | 5902              | Sóc Trăng         |    3 |                3
+ 422 | Krông Pa              |                   | Gia Lai           |    3 |                 
+ 424 | Long Biên             | 1A09              | Hà Nội            |    2 |                3
+ 429 | Mê Linh               | 1B29              | Hà Nội            |    3 |                3
+ 434 | Na Rì                 |                   | Bắc Kạn           |    3 |                 
+ 439 | Ngô Quyền             | 0303              | Hải Phòng         |    1 |                3
+ 444 | Phong Điền            | 5505              | Cần Thơ           |    2 |                3
+ 449 | Phúc Thọ              | 1B18              | Hà Nội            |    3 |                3
+ 454 | Quận 6                | 0206              | TP Hồ Chí Minh    |    1 |                3
+ 459 | Sóc Trăng             | 5901              | Sóc Trăng         |    1 |                3
+ 464 | Tân An                | 4901              | Long An           |    1 |                3
+ 469 | Tây Ninh              | 4601              | Tây Ninh          |    1 |                3
+ 474 | Chí Linh              | 2102              | Hải Dương         |    3 |                3
+ 479 | Dầu Tiếng             | 4407              | Bình Dương        |    3 |                2
+ 484 | Đắk Mil               | 6303              | Đắk Nông          |    3 |                3
+ 489 | Đông Triều            | 1710              | Quảng Ninh        |    3 |                3
+ 494 | Giang Thành           |                   | Kiên Giang        |    3 |                 
+ 499 | Hải Hậu               | 2510              | Nam Định          |    3 |                3
+ 504 | Hóc Môn               | 0222              | TP Hồ Chí Minh    |    3 |                3
+ 509 | Khánh Vĩnh            | 4105              | Khánh Hòa         |    3 |                3
+ 515 | Kỳ Anh                | 3010              | Hà Tĩnh           |    3 |                3
+ 519 | Long Điền             | 5204              | Bà Rịa - Vũng Tàu |    2 |                3
+ 524 | Mỏ Cày Bắc            | 5604              | Bến Tre           |    2 |                3
+ 529 | Nam Đông              | 3308              | Thừa Thiên - Huế  |    3 |                3
+ 535 | Nha Trang             | 4101              | Khánh Hòa         |    1 |                3
+ 539 | Phú Lộc               | 3307              | Thừa Thiên - Huế  |    3 |                3
+ 544 | Phước Sơn             |                   | Quảng Nam         |    3 |                 
+ 549 | Quận 12               | 0212              | TP Hồ Chí Minh    |    2 |                3
+ 554 | Sốp Cộp               | 1411              | Sơn La            |    3 |                3
+ 559 | Tân Hồng              | 5003              | Đồng Tháp         |    3 |                3
+ 564 | Tây Hồ                | 1A05              | Hà Nội            |    1 |                3
+ 569 | Thanh Xuân            | 1A07              | Hà Nội            |    1 |                3
+ 574 | Tiên Lãng             | 0311              | Hải Phòng         |    3 |                3
+ 579 | Tủa Chùa              | 6206              | Điện Biên         |    3 |                3
+ 584 | Văn Yên               | 1303              | Yên Bái           |    3 |                3
+ 589 | Vũng Tàu              | 5201              | Bà Rịa - Vũng Tàu |    1 |                3
+ 597 | Tây Sơn               | 3708              | Bình Định         |    3 |                3
+ 599 | Thạnh Phú             | 5608              | Bến Tre           |    3 |                3
+ 604 | Tiền Hải              | 2607              | Thái Bình         |    2 |                3
+ 609 | Trường Sa             |                   | Khánh Hòa         |    3 |                 
+ 614 | Văn Quan              | 1006              | Lạng Sơn          |    3 |                3
+ 619 | Vũ Quang              | 3011              | Hà Tĩnh           |    3 |                3
+ 624 | Yên Thủy              |                   | Hòa Bình          |    3 |                 
+ 629 | Thanh Trì             | 1A11              | Hà Nội            |    3 |                3
+ 634 | Thường Xuân           | 2808              | Thanh Hóa         |    3 |                3
+ 639 | Trùng Khánh           | 0606              | Cao Bằng          |    3 |                3
+ 644 | Văn Lãng              | 1004              | Lạng Sơn          |    3 |                3
+ 649 | Vĩnh Yên              | 1601              | Vĩnh Phúc         |    1 |                3
+ 654 | Yên Sơn               | 0906              | Tuyên Quang       |    2 |                2
+ 659 | Thạnh Hóa             | 4905              | Long An           |    3 |                3
+ 665 | Tiên Du               | 1904              | Bắc Ninh          |    2 |                2
+ 669 | Trực Ninh             | 2508              | Nam Định          |    2 |                3
+ 674 | Văn Lâm               | 2209              | Hưng Yên          |    3 |                3
+ 679 | Võ Nhai               | 1205              | Thái Nguyên       |    3 |                3
+ 121 | Gò Công Tây           | 5307              | Tiền Giang        |    2 |                3
+ 126 | Hiệp Đức              |                   | Quảng Nam         |    3 |                 
+ 131 | Hồng Lĩnh             | 3002              | Hà Tĩnh           |    3 |                3
+ 136 | Kiến Xương            | 2606              | Thái Bình         |    2 |                3
+ 141 | Lạc Sơn               |                   | Hòa Bình          |    3 |                 
+ 146 | Long Thành            | 4808              | Đồng Nai          |    3 |                3
+ 150 | Mộ Đức                | 3510              | Quảng Ngãi        |    2 |                3
+ 156 | Nam Trà My            |                   | Quảng Nam         |    3 |                 
+ 162 | Như Thanh             |                   | Thanh Hóa         |    3 |                 
+ 166 | Phú Nhuận             | 0217              | TP Hồ Chí Minh    |    1 |                3
+ 171 | Quan Sơn              | 2805              | Thanh Hóa         |    3 |                3
+ 176 | Quế Võ                | 1903              | Bắc Ninh          |    2 |                2
+ 181 | Sơn Hà                | 3506              | Quảng Ngãi        |    3 |                3
+ 186 | Tân Phú               | 4803              | Đồng Nai          |    3 |                3
+ 191 | Châu Phú              | 5108              | An Giang          |    3 |                3
+ 196 | Chương Mỹ             | 1B21              | Hà Nội            |    3 |                3
+ 201 | Đại Từ                |                   | Thái Nguyên       |    3 |                 
+ 206 | Đông Anh              | 1A13              | Hà Nội            |    3 |                3
+ 211 | Ea Súp                |                   | Đắk Lắk           |    3 |                 
+ 216 | Hạ Lang               | 0611              | Cao Bằng          |    3 |                3
+ 221 | Hoài Nhơn             | 3704              | Bình Định         |    3 |                3
+ 226 | Hướng Hóa             | 3208              | Quảng Trị         |    3 |                3
+ 231 | Kông Chro             |                   | Gia Lai           |    3 |                 
+ 235 | Lâm Thao              | 1510              | Phú Thọ           |    2 |                3
+ 241 | Mai Châu              |                   | Hòa Bình          |    3 |                 
+ 246 | Mỹ Hào                | 2208              | Hưng Yên          |    3 |                3
+ 251 | Nghĩa Hành            | 3508              | Quảng Ngãi        |    2 |                3
+ 256 | Ô Môn                 | 5504              | Cần Thơ           |    2 |                3
+ 261 | Phú Xuyên             | 1B28              | Hà Nội            |    3 |                3
+ 266 | Quảng Uyên            | 0609              | Cao Bằng          |    3 |                3
+ 271 | Sa Đéc                | 5002              | Đồng Tháp         |    1 |                3
+ 276 | Tam Đảo               | 1609              | Vĩnh Phúc         |    2 |                3
+ 281 | Tân Uyên              | 4403              | Bình Dương        |    2 |                3
+ 286 | Châu Thành A          | 6406              | Hậu Giang         |    3 |                3
+ 291 | Cửa Lò                | 2902              | Nghệ An           |    2 |                3
+ 296 | Đắk Hà                | 3607              | Kon Tum           |    3 |                3
+ 301 | Đông Sơn              | 2820              | Thanh Hóa         |    2 |                3
+ 306 | Giá Rai               | 6004              | Bạc Liêu          |    3 |                3
+ 309 | Hải Hà                | 1707              | Quảng Ninh        |    3 |                3
+ 316 | Hoằng Hóa             | 2822              | Thanh Hóa         |    2 |                3
+ 321 | Khánh Sơn             | 4107              | Khánh Hòa         |    3 |                3
+ 326 | Krông Pắk             | 4007              | Đắk Lắk           |    3 |                3
+ 331 | Long Khánh            | 4806              | Đồng Nai          |    3 |                3
+ 336 | Minh Long             | 3509              | Quảng Ngãi        |    3 |                3
+ 341 | Nam Định              | 2501              | Nam Định          |    1 |                3
+ 346 | Ngũ Hành Sơn          | 0404              | Đà Nẵng           |    1 |                3
+ 351 | Phổ Yên               | 1209              | Thái Nguyên       |    3 |                3
+ 356 | Phục Hòa              | 0613              | Cao Bằng          |    3 |                3
+ 361 | Quận 8                | 0208              | TP Hồ Chí Minh    |    1 |                3
+ 366 | Sông Công             | 1202              | Thái Nguyên       |    2 |                3
+ 371 | Tân Bình              | 0214              | TP Hồ Chí Minh    |    1 |                3
+ 376 | Cần Đước              | 4912              | Long An           |    3 |                3
+ 381 | Chợ Mới               | 1107              | Bắc Kạn           |    3 |                3
+ 386 | Duy Xuyên             | 3403              | Quảng Nam         |    2 |                2
+ 391 | Đam Rông              | 4212              | Lâm Đồng          |    3 |                3
+ 396 | Đồng Xuân             | 3902              | Phú Yên           |    3 |                3
+ 401 | Gò Công Đông          | 5308              | Tiền Giang        |    3 |                3
+ 406 | Hậu Lộc               | 2824              | Thanh Hóa         |    3 |                3
+ 411 | Hồng Ngự              | 5004              | Đồng Tháp         |    3 |                3
+ 416 | Kim Bảng              | 2403              | Hà Nam            |    2 |                3
+ 419 | Lai Châu              | 0701              | Lai Châu          |    1 |                3
+ 426 | Lộc Hà                | 3012              | Hà Tĩnh           |    2 |                3
+ 431 | Mường Ảng             |                   | Điện Biên         |    3 |                 
+ 436 | Nậm Pồ                |                   | Điện Biên         |    3 |                 
+ 441 | Ninh Giang            | 2108              | Hải Dương         |    2 |                3
+ 446 | Phú Quý               |                   | Bình Thuận        |    3 |                 
+ 451 | Quản Bạ               | 0505              | Hà Giang          |    3 |                3
+ 455 | Quy Nhơn              | 3701              | Bình Định         |    1 |                3
+ 461 | Sơn Hòa               |                   | Phú Yên           |    3 |                 
+ 466 | Tân Lạc               | 2304              | Hòa Bình          |    3 |                3
+ 471 | Châu Đốc              | 5102              | An Giang          |    3 |                3
+ 476 | Chư Prông             | 3808              | Gia Lai           |    3 |                3
+ 481 | Dương Minh Châu       | 4604              | Tây Ninh          |    2 |                3
+ 486 | Điện Biên Đông        |                   | Điện Biên         |    3 |                 
+ 491 | Đức Hòa               | 4907              | Long An           |    3 |                3
+ 496 | Gò Vấp                | 0213              | TP Hồ Chí Minh    |    1 |                3
+ 501 | Hòa An                | 0608              | Cao Bằng          |    3 |                3
+ 506 | Hưng Hà               | 2603              | Thái Bình         |    3 |                3
+ 511 | Kim Động              | 2202              | Hưng Yên          |    2 |                2
+ 516 | Lai Vung              | 5010              | Đồng Tháp         |    2 |                2
+ 521 | Lục Ngạn              | 1803              | Bắc Giang         |    3 |                3
+ 527 | Mường La              | 1403              | Sơn La            |    3 |                3
+ 531 | Ngã Bảy               | 6407              | Hậu Giang         |    3 |                3
+ 536 | Ninh Kiều             | 5501              | Cần Thơ           |    1 |                3
+ 541 | Phú Thọ               | 1502              | Phú Thọ           |    3 |                3
+ 546 | Quảng Trị             | 3202              | Quảng Trị         |    3 |                3
+ 551 | Quỳnh Phụ             | 2602              | Thái Bình         |    3 |                3
+ 556 | Tam Bình              | 5705              | Vĩnh Long         |    3 |                3
+ 561 | Tân Thạnh             | 4904              | Long An           |    3 |                3
+ 566 | Thái Nguyên           | 1201              | Thái Nguyên       |    1 |                3
+ 571 | Thới Bình             | 6102              | Cà Mau            |    3 |                3
+ 576 | Trà Ôn                | 5706              | Vĩnh Long         |    3 |                3
+ 581 | Tư Nghĩa              | 3507              | Quảng Ngãi        |    2 |                2
+ 586 | Vĩnh Bảo              | 0312              | Hải Phòng         |    3 |                3
+ 591 | Yên Định              | 2827              | Thanh Hóa         |    3 |                3
+ 595 | Than Uyên             | 0706              | Lai Châu          |    3 |                3
+ 601 | Thốt Nốt              | 5508              | Cần Thơ           |    2 |                3
+ 606 | Trà Lĩnh              | 0605              | Cao Bằng          |    3 |                3
+ 611 | Tuyên Quang           | 0901              | Tuyên Quang       |    1 |                3
+ 616 | Vinh                  | 2901              | Nghệ An           |    1 |                3
+ 621 | Yên Bái               | 1301              | Yên Bái           |    1 |                2
+ 626 | Thái Hòa              | 2920              | Nghệ An           |    3 |                3
+ 631 | Thông Nông            | 0603              | Cao Bằng          |    3 |                3
+ 638 | Trà Bồng              | 3504              | Quảng Ngãi        |    3 |                3
+ 641 | Tuy Phước             | 3711              | Bình Định         |    2 |                3
+ 646 | Việt Trì              | 1501              | Phú Thọ           |    1 |                3
+ 651 | Xuân Trường           | 2503              | Nam Định          |    3 |                3
+ 656 | Thái Thụy             | 2608              | Thái Bình         |    2 |                3
+ 661 | Thống Nhất            | 4805              | Đồng Nai          |    3 |                3
+ 666 | Trà Cú                | 5806              | Trà Vinh          |    3 |                3
+ 671 | Tuyên Hóa             | 3102              | Quảng Bình        |    3 |                3
+ 676 | Việt Yên              | 1809              | Bắc Giang         |    2 |                3
+ 681 | Xuyên Mộc             | 5203              | Bà Rịa - Vũng Tàu |    3 |                3
+ 686 | Thanh Ba              | 1504              | Phú Thọ           |    3 |                3
+ 684 | Yên Thành             | 2911              | Nghệ An           |    3 |                3
+ 689 | Thạnh Trị             |                   | Sóc Trăng         |    3 |                 
+ 694 | Tiên Lữ               | 2206              | Hưng Yên          |    2 |                3
+ 697 | Trấn Yên              | 1307              | Yên Bái           |    2 |                3
+ 702 | Uông Bí               | 1703              | Quảng Ninh        |    3 |                3
+ 707 | Vĩnh Lộc              | 2816              | Thanh Hóa         |    3 |                3
+ 712 | Yên Lạc               | 1605              | Vĩnh Phúc         |    2 |                2
+ 690 | Thoại Sơn             | 5111              | An Giang          |    3 |                3
+ 695 | Tịnh Biên             | 5106              | An Giang          |    3 |                3
+ 698 | Triệu Sơn             |                   | Thanh Hóa         |    3 |                 
+ 703 | Văn Giang             | 2210              | Hưng Yên          |    3 |                3
+ 708 | Vĩnh Tường            | 1604              | Vĩnh Phúc         |    2 |                2
+ 713 | Yên Phong             | 1902              | Bắc Ninh          |    2 |                3
+ 691 | Thới Lai              | 5509              | Cần Thơ           |    3 |                3
+ 696 | Trà Vinh              | 5801              | Trà Vinh          |    1 |                3
+ 699 | Tuần Giáo             | 6204              | Điện Biên         |    3 |                3
+ 704 | Vân Canh              | 3709              | Bình Định         |    3 |                3
+ 709 | Vũ Thư                | 2605              | Thái Bình         |    2 |                2
+ 693 | Thường Tín            | 1B27              | Hà Nội            |    3 |                3
+ 700 | Tuy Phong             | 4702              | Bình Thuận        |    3 |                3
+ 705 | Vị Xuyên              |                   | Hà Giang          |    3 |                 
+ 710 | Xuân Lộc              | 4807              | Đồng Nai          |    3 |                3
+ 706 | Vĩnh Châu             | 5907              | Sóc Trăng         |    3 |                3
+ 711 | Yên Bình              |                   | Yên Bái           |    3 |                 
+(713 rows)
+

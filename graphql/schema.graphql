@@ -1,0 +1,73 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+scalar EmailType
+
+type Mutation {
+  createUser(input: UserCreateInput!): UserCreatePayload
+}
+
+interface Node {
+  id: ID!
+}
+
+type PageInfo {
+  hasNextPage: Boolean!
+  hasPreviousPage: Boolean!
+  startCursor: String
+  endCursor: String
+}
+
+type Query {
+  node(id: ID!): Node
+  users(after: String, first: Int, before: String, last: Int): UserConnection
+}
+
+type User implements Node {
+  id: ID!
+  name: String
+  userName: String
+  mobilePhone: String
+  isVerifyMobilePhone: Boolean
+  email: EmailType
+  isVerifyEmail: Boolean
+  avatarUrl: String
+  level: Int
+  address: String
+  district: String
+  province: String
+  facebookId: String
+  facebookProfile: String
+  note: String
+}
+
+type UserConnection {
+  pageInfo: PageInfo!
+  edges: [UserEdge]
+}
+
+input UserCreateInput {
+  name: String!
+  userName: String!
+  password: String!
+  mobilePhone: String!
+  email: String!
+  level: Int!
+  address: String!
+  district: String!
+  province: String!
+  clientMutationId: String!
+}
+
+type UserCreatePayload {
+  userEdge: UserEdge
+  users(after: String, first: Int, before: String, last: Int): UserConnection
+  clientMutationId: String!
+}
+
+type UserEdge {
+  node: User
+  cursor: String!
+}
