@@ -1,6 +1,6 @@
 # Tổ Cú API
 
-[![Build Status](https://travis-ci.org/tocu/tocu-api.svg?branch=immutable)](https://travis-ci.org/tocu/tocu-api)
+[![Build Status](https://travis-ci.org/tocu/tocu-api.svg?branch=master)](https://travis-ci.org/tocu/tocu-api)
 
 Start
 ```
